@@ -1,0 +1,312 @@
+{
+  "groups": [
+    {
+      "name": "Група А",
+      "teams": [
+        {
+          "name": "Team 15",
+          "logo": "assets/teams_logos/Team15.png",
+          "points": 13,
+          "matches": "W W W L W W",
+          "group_winner": true,
+          "players": [
+            {
+              "name": "MARIS_W._GG",
+              "rank": 978
+            },
+            {
+              "name": "necikavyi.",
+              "isCap": true,
+              "rank": 918
+            }
+          ]
+        },
+        {
+          "name": "En78",
+          "logo": "assets/teams_logos/En78.png",
+          "points": 12,
+          "matches": "L W W W W L",
+          "group_winner": true,
+          "players": [
+            {
+              "name": "Skeenny_",
+              "isCap": true,
+              "rank": 1138
+            },
+            {
+              "name": "Vladislav_979",
+              "rank": 792
+            }
+          ]
+        },
+        {
+          "name": "Death Express",
+          "logo": "assets/teams_logos/death_express.png",
+          "points": 8,
+          "matches": "L L L W L W",
+          "group_winner": false,
+          "players": [
+            {
+              "name": "TRY O_O HARD",
+              "isCap": true,
+              "rank": 1118
+            },
+            {
+              "name": "qwazix.",
+              "rank": 808
+            }
+          ]
+        },
+        {
+          "name": "Avengers",
+          "logo": "assets/teams_logos/Avengers.png",
+          "points": 3,
+          "matches": "W L L L L L",
+          "group_winner": false,
+          "players": [
+            {
+              "name": "Banka c pivom",
+              "isCap": true,
+              "rank": 1189
+            },
+            {
+              "name": "Povidlo_tr",
+              "rank": 699
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Група Б",
+      "teams": [
+        {
+          "name": "RT",
+          "logo": "assets/teams_logos/rt.png",
+          "points": 7,
+          "matches": "L W L L W L",
+          "group_winner": true,
+          "players": [
+            {
+              "name": "S0meW3l",
+              "isCap": true,
+              "rank": 1018
+            },
+            {
+              "name": "ya-sigma",
+              "rank": 868
+            }
+          ]
+        },
+        {
+          "name": "Sky Strikers",
+          "logo": "assets/teams_logos/Sky_Strikers.png",
+          "points": 5,
+          "matches": "W L L L L W",
+          "group_winner": false,
+          "players": [
+            {
+              "name": "ORYON",
+              "rank": 1356
+            },
+            {
+              "name": "Field_Man",
+              "isCap": true,
+              "rank": 762
+            }
+          ]
+        },
+        {
+          "name": "Dark Experience",
+          "logo": "assets/teams_logos/Dark_Experience.png",
+          "points": 15,
+          "matches": "W W W W L W",
+          "group_winner": true,
+          "players": [
+            {
+              "name": "Gucci_Flop.",
+              "isCap": true,
+              "rank": 1246
+            },
+            {
+              "name": "Joinus_R",
+              "rank": 688
+            }
+          ]
+        },
+        {
+          "name": "Project D",
+          "logo": "assets/teams_logos/project_d.png",
+          "points": 6,
+          "matches": "L L L W W L",
+          "group_winner": false,
+          "players": [
+            {
+              "name": "naazzarko.00oo",
+              "rank": 1016
+            },
+            {
+              "name": "Kaktys 8",
+              "isCap": true,
+              "rank": 871
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Група В",
+      "teams": [
+        {
+          "name": "Double Penetration",
+          "logo": "assets/teams_logos/Double_Penetration.png",
+          "points": 9,
+          "matches": "W W L W L W",
+          "group_winner": true,
+          "players": [
+            {
+              "name": "h5d.",
+              "rank": 1058
+            },
+            {
+              "name": "SSL U DILI",
+              "isCap": true,
+              "rank": 851
+            }
+          ]
+        },
+        {
+          "name": "Expinshion",
+          "logo": "assets/teams_logos/expinshion.png",
+          "points": 9,
+          "matches": "W L W L L L",
+          "group_winner": false,
+          "players": [
+            {
+              "name": "NAGetss_.",
+              "rank": 1415
+            },
+            {
+              "name": "Lan1gwh",
+              "isCap": true,
+              "rank": 629
+            }
+          ]
+        },
+        {
+          "name": "Pivozavriki",
+          "logo": "assets/teams_logos/Pivozavriki.png",
+          "points": 10,
+          "matches": "W L L W W W",
+          "group_winner": true,
+          "players": [
+            {
+              "name": "wackix",
+              "rank": 1124
+            },
+            {
+              "name": "Desuto2",
+              "isCap": true,
+              "rank": 887
+            }
+          ]
+        },
+        {
+          "name": "Goose Fiction",
+          "logo": "assets/teams_logos/Goose-Fiction.png",
+          "points": 8,
+          "matches": "L L W L W L",
+          "group_winner": false,
+          "players": [
+            {
+              "name": "KBM Sovereign",
+              "rank": 994
+            },
+            {
+              "name": "KanGer533.",
+              "isCap": true,
+              "rank": 910
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Група Г",
+      "teams": [
+        {
+          "name": "HUH",
+          "logo": "assets/teams_logos/HUH.png",
+          "points": 10,
+          "matches": "W W L W L L",
+          "group_winner": true,
+          "players": [
+            {
+              "name": "Deicidiikami",
+              "isCap": true,
+              "rank": 1460
+            },
+            {
+              "name": "sosna256sosna",
+              "rank": 599
+            }
+          ]
+        },
+        {
+          "name": "Shaleny Gusy",
+          "logo": "assets/teams_logos/Shaleny_Gusy.png",
+          "points": 7,
+          "matches": "L W W L L W",
+          "group_winner": false,
+          "players": [
+            {
+              "name": "Mencher_",
+              "rank": 1059
+            },
+            {
+              "name": "Bobby_old_Stump.",
+              "isCap": true,
+              "rank": 851
+            }
+          ]
+        },
+        {
+          "name": "Bimba",
+          "logo": "assets/teams_logos/Bimba.png",
+          "points": 14,
+          "matches": "W L W W W W",
+          "group_winner": true,
+          "players": [
+            {
+              "name": "K0bzar_",
+              "isCap": true,
+              "rank": 1720
+            },
+            {
+              "name": "persohazz0.",
+              "rank": 361
+            }
+          ]
+        },
+        {
+          "name": "Secret Esports",
+          "logo": "assets/teams_logos/Secret_Esports.png",
+          "points": 5,
+          "matches": "L L L L W L",
+          "group_winner": false,
+          "players": [
+            {
+              "name": "Dxnku",
+              "isCap": true,
+              "rank": 1015
+            },
+            {
+              "name": "HydroPedik",
+              "rank": 980
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
