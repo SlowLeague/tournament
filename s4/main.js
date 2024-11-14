@@ -56,7 +56,7 @@ function generatePlayerHTML(player) {
 
   const playerRank = document.createElement('span');
   playerRank.className = 'player-rank';
-  playerRank.innerHTML = `<span class="not-skewed flex-center">MMR: ${player.rank} <div class="lock"></div></span>`;
+  playerRank.innerHTML = `<span class="not-skewed rank">MMR: ${player.rank} </span>`;
 
   playerInfoDiv.appendChild(playerName);
   playerInfoDiv.appendChild(playerRank);

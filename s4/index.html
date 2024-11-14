@@ -6,10 +6,6 @@
     <link rel="icon" type="image/x-icon" href="../favicon.ico" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap"
-      rel="stylesheet"
-    />
     <link rel="stylesheet" href="style.css" />
     <title>Slow League PANAKARMANA</title>
   </head>
@@ -31,12 +27,6 @@
           <a href="index.html"
             ><div class="menu-box"><div class="img-squares" id="img-squares"></div></div
           ></a>
-          <!-- <a href="teams.html"
-            ><div class="menu-box"><div class="img-teams" id="img-teams"></div></div
-          ></a>
-          <a href="playoff.html"
-            ><div class="menu-box"><div class="img-cup" id="img-cup"></div></div
-          ></a> -->
           <a href="info.html"
             ><div class="menu-box"><div class="img-info" id="img-info"></div></div
           ></a>
@@ -49,12 +39,6 @@
           <a href="index.html"
             ><div class="menu-box"><div class="img-squares" id="img-squares-left"></div></div
           ></a>
-          <!-- <a href="teams.html"
-            ><div class="menu-box"><div class="img-teams" id="img-teams-left"></div></div
-          ></a>
-          <a href="playoff.html"
-            ><div class="menu-box"><div class="img-cup" id="img-cup-left"></div></div
-          ></a> -->
           <a href="info.html"
             ><div class="menu-box"><div class="img-info" id="img-info-left"></div></div
           ></a>
@@ -62,28 +46,23 @@
       </div>
       <div class="main-content">
         <div class="content-top">
-          <div style="position: relative">
-            <img class="info-content-img" src="assets/discord_qr.png" alt="" />
-            <div class="card-shadow"></div>
-          </div>
-          <div class="content-top-center">
-            <div style="position: relative">
-              <img class="main-image" src="assets/main_logo.png" />
-              <div class="card-shadow"></div>
+          <img class="main-image" src="assets/main_logo.png" />
+          <div class="info-content">
+            <span class="ic-header">ПРИЗОВИЙ ФОНД</span>
+            <div class="ic-info-block">
+              <div class="ic-info-text">
+                <p class="ic-info">Ви можете поповнити наш призовий фонд. Чим змотивуєте гравців ще сильніше.</p>
+                <a class="share-button">
+                  <span class="banka-text">BANKA MONO </span>
+                  <div class="img-share" id="img-info"></div>
+                </a>
+              </div>
+              <img class="banka-qr" src="assets/banka_qr.svg" alt="" />
             </div>
-            <div class="players-count-wrapper" style="position: relative">
-              <span class="players-count-title"
-                >Список гравців <span id="players-count" class="players-count"></span
-              ></span>
-              <div class="card-shadow"></div>
-            </div>
-          </div>
-          <div style="position: relative">
-            <img class="info-content-img" src="assets/banka_qr.png" alt="" />
-            <div class="card-shadow"></div>
           </div>
         </div>
         <div class="content-bottom">
+          <span class="players-list-title">Список гравців <span id="players-count" class="players-count"></span></span>
           <div id="players-list" class="players-list"></div>
         </div>
       </div>
