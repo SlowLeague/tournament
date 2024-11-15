@@ -7,6 +7,10 @@ body {
   margin: 20px;
 }
 
+.splide__pagination__page.is-active {
+  background: #fcfc2b !important;
+}
+
 /* HEADER STYLES */
 
 .header {
@@ -290,7 +294,7 @@ a {
   justify-content: space-between;
   align-self: center;
   width: 100%;
-  gap: 14px;
+  gap: 20px;
 }
 
 .content-top-teams {
@@ -301,11 +305,12 @@ a {
 }
 
 .main-image {
-  max-width: 918px;
+  max-width: 60%;
   height: auto;
   border-radius: 15px;
 }
 .info-content {
+  max-width: calc(40% - 60px);
   background: #181818;
   border-radius: 10px;
   padding: 18px;

@@ -1,3 +1,8 @@
+tippy('.with-tooltip', {
+  arrow: true,
+  delay: [300, 200],
+});
+new Splide('.splide', { arrows: false, autoplay: true, interval: 5000, rewind: true }).mount();
 let request = new XMLHttpRequest();
 request.open('GET', 'players.json', false);
 request.send(null);
@@ -86,6 +91,10 @@ function generatePlayerHTML(player) {
     profileLink.appendChild(YTLogoImg);
     linksListDiv.appendChild(profileLink);
   }
+  tippy('.kek', {
+    arrow: false,
+    delay: [5000, 200],
+  });
   if (player.link) {
     const profileLink = document.createElement('a');
     profileLink.target = '_blank';
