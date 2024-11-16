@@ -11,6 +11,8 @@
       rel="stylesheet"
     />
     <link rel="stylesheet" href="style.css" />
+    <script src="https://unpkg.com/@popperjs/core@2"></script>
+    <script src="https://unpkg.com/tippy.js@6"></script>
     <title>Slow League PANAKARMANA</title>
   </head>
 
@@ -24,24 +26,25 @@
         </div>
         <div class="name">
           <span class="t-name">SLOW LEAGUE</span>
-          <div class="s-name"><span class="not-skewed">SEASON 3</span></div>
+          <div class="s-name">
+            <span
+              class="not-skewed kek"
+              data-tippy-content="Вітаю, ти першим віднайшов великодку та виграв 100 грн від організаторів, напиши про це в діскорді якомога швидше, поки ніхто не забрав до тебе!"
+              >SEASON 4</span
+            >
+          </div>
         </div>
         <div class="creator-name">PANAKARMANA</div>
-        <div class="left-menu-header">
-          <div class="left-menu_header">
-            <a href="index.html"
-              ><div class="menu-box"><div class="img-squares" id="img-squares"></div></div
-            ></a>
-            <!-- <a href="teams.html"
-              ><div class="menu-box"><div class="img-teams" id="img-teams"></div></div
-            ></a>
-            <a href="playoff.html"
-              ><div class="menu-box"><div class="img-cup" id="img-cup"></div></div
-            ></a> -->
-            <a href="info.html"
-              ><div class="menu-box"><div class="img-info" id="img-info"></div></div
-            ></a>
-          </div>
+        <div class="left-menu_header">
+          <a href="index.html"
+            ><div class="menu-box"><div class="img-squares" id="img-squares"></div></div
+          ></a>
+          <a href="teams.html"
+            ><div class="menu-box"><div class="img-teams" id="img-teams"></div></div
+          ></a>
+          <a href="info.html"
+            ><div class="menu-box"><div class="img-info" id="img-info"></div></div
+          ></a>
         </div>
       </div>
     </div>
@@ -49,20 +52,18 @@
     <div class="main-wrapper">
       <div class="left-menu">
         <div class="left-menu_top">
-          <a href="index.html"
+          <a href="index.html" data-tippy-content="Список гравців" class="with-tooltip"
             ><div class="menu-box"><div class="img-squares" id="img-squares-left"></div></div
           ></a>
-          <!-- <a href="teams.html"
+          <a href="teams.html" data-tippy-content="Груповий етап" class="with-tooltip"
             ><div class="menu-box"><div class="img-teams" id="img-teams-left"></div></div
           ></a>
-          <a href="playoff.html"
-            ><div class="menu-box"><div class="img-cup" id="img-cup-left"></div></div
-          ></a> -->
-          <a href="info.html"
+          <a href="info.html" data-tippy-content="FAQ" class="with-tooltip"
             ><div class="menu-box"><div class="img-info" id="img-info-left"></div></div
           ></a>
         </div>
       </div>
+
       <div class="main-info-content">
         <span class="info-header"> Основні положення Slow League PANAKARMANA </span>
         <div class="i-groups">

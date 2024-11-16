@@ -1,0 +1,538 @@
+{
+  "groups": [
+    {
+      "name": "Група А",
+      "teams": [
+        {
+          "name": "Команда 7",
+          "logo": "assets/teams_logos/default_logo.png",
+          "points": 0,
+          "matches": "",
+          "players": [
+            {
+              "name": "fracquo",
+              "rank": 1361
+            },
+            {
+              "name": "Egotoo7",
+              "rank": 698
+            }
+          ]
+        },
+        {
+          "name": "Команда 12",
+          "logo": "assets/teams_logos/default_logo.png",
+          "points": 0,
+          "matches": "",
+          "players": [
+            {
+              "name": "shedruk",
+              "rank": 1200
+            },
+            {
+              "name": "sptfy-CHIKUJXUIN",
+              "rank": 793
+            }
+          ]
+        },
+        {
+          "name": "Команда 15",
+          "logo": "assets/teams_logos/default_logo.png",
+          "points": 0,
+          "matches": "",
+          "players": [
+            {
+              "name": "Mixxenpp",
+              "rank": 1157
+            },
+            {
+              "name": "sosna256sosna",
+              "rank": 831
+            }
+          ]
+        },
+        {
+          "name": "Команда 17",
+          "logo": "assets/teams_logos/default_logo.png",
+          "points": 0,
+          "matches": "",
+          "players": [
+            {
+              "name": "Crezgep",
+              "rank": 1120
+            },
+            {
+              "name": "Riellxyua",
+              "rank": 843
+            }
+          ]
+        },
+        {
+          "name": "Команда 18",
+          "logo": "assets/teams_logos/default_logo.png",
+          "points": 0,
+          "matches": "",
+          "players": [
+            {
+              "name": "kanger533",
+              "rank": 1119
+            },
+            {
+              "name": "Banka_tushonky",
+              "rank": 844
+            }
+          ]
+        },
+        {
+          "name": "Команда 20",
+          "logo": "assets/teams_logos/default_logo.png",
+          "points": 0,
+          "matches": "",
+          "players": [
+            {
+              "name": "hon4cc",
+              "rank": 1072
+            },
+            {
+              "name": "g1b509",
+              "rank": 863
+            }
+          ]
+        },
+        {
+          "name": "Команда 24",
+          "logo": "assets/teams_logos/default_logo.png",
+          "points": 0,
+          "matches": "",
+          "players": [
+            {
+              "name": "teddy_line",
+              "rank": 1034
+            },
+            {
+              "name": "UKRFLIPRESET",
+              "rank": 885
+            }
+          ]
+        },
+
+        {
+          "name": "Команда 32",
+          "logo": "assets/teams_logos/default_logo.png",
+          "points": 0,
+          "matches": "",
+          "players": [
+            {
+              "name": "yalox223",
+              "rank": 946
+            },
+            {
+              "name": "ruzhkevych",
+              "rank": 945
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Група Б",
+      "teams": [
+        {
+          "name": "Команда 16",
+          "logo": "assets/teams_logos/default_logo.png",
+          "points": 0,
+          "matches": "",
+          "players": [
+            {
+              "name": "h5d.",
+              "rank": 1141
+            },
+            {
+              "name": "usertrace",
+              "rank": 837
+            }
+          ]
+        },
+        {
+          "name": "Команда 19",
+          "logo": "assets/teams_logos/default_logo.png",
+          "points": 0,
+          "matches": "",
+          "players": [
+            {
+              "name": "nazzarko.00oo",
+              "rank": 1084
+            },
+            {
+              "name": "Did_noDavid",
+              "rank": 853
+            }
+          ]
+        },
+        {
+          "name": "Команда 21",
+          "logo": "assets/teams_logos/default_logo.png",
+          "points": 0,
+          "matches": "",
+          "players": [
+            {
+              "name": "Dxnku",
+              "rank": 1070
+            },
+            {
+              "name": "Manveil",
+              "rank": 869
+            }
+          ]
+        },
+        {
+          "name": "Команда 4",
+          "logo": "assets/teams_logos/default_logo.png",
+          "points": 0,
+          "matches": "",
+          "players": [
+            {
+              "name": "Xenomovi4",
+              "rank": 1463
+            },
+            {
+              "name": "NaGiBaToR_39",
+              "rank": 648
+            }
+          ]
+        },
+        {
+          "name": "Команда 9",
+          "logo": "assets/teams_logos/default_logo.png",
+          "points": 0,
+          "matches": "",
+          "players": [
+            {
+              "name": "ItsMarviuS",
+              "rank": 1254
+            },
+            {
+              "name": "Ains171",
+              "rank": 741
+            }
+          ]
+        },
+        {
+          "name": "Команда 29",
+          "logo": "assets/teams_logos/default_logo.png",
+          "points": 0,
+          "matches": "",
+          "players": [
+            {
+              "name": "Typa_kach",
+              "rank": 961
+            },
+            {
+              "name": "Serpent89.",
+              "rank": 919
+            }
+          ]
+        },
+        {
+          "name": "Команда 3",
+          "logo": "assets/teams_logos/default_logo.png",
+          "points": 0,
+          "matches": "",
+          "players": [
+            {
+              "name": "7r01l",
+              "rank": 1509
+            },
+            {
+              "name": "Shalun Gavrillo",
+              "rank": 529
+            }
+          ]
+        },
+        {
+          "name": "Команда 6",
+          "logo": "assets/teams_logos/default_logo.png",
+          "points": 0,
+          "matches": "",
+          "players": [
+            {
+              "name": "Mencher_",
+              "rank": 1363
+            },
+            {
+              "name": "mats0_0_0",
+              "rank": 698
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Група В",
+      "teams": [
+        {
+          "name": "Команда 22",
+          "logo": "assets/teams_logos/default_logo.png",
+          "points": 0,
+          "matches": "",
+          "players": [
+            {
+              "name": "DarkDayfr",
+              "rank": 1050
+            },
+            {
+              "name": "HIMOTONAJAVARI",
+              "rank": 877
+            }
+          ]
+        },
+        {
+          "name": "Команда 26",
+          "logo": "assets/teams_logos/default_logo.png",
+          "points": 0,
+          "matches": "",
+          "players": [
+            {
+              "name": "Tw-De_n4ik",
+              "rank": 1013
+            },
+            {
+              "name": "TessikRuinit",
+              "rank": 905
+            }
+          ]
+        },
+
+        {
+          "name": "Команда 25",
+          "logo": "assets/teams_logos/default_logo.png",
+          "points": 0,
+          "matches": "",
+          "players": [
+            {
+              "name": "Bilanuk",
+              "rank": 1016
+            },
+            {
+              "name": "OGVaflikNefermer",
+              "rank": 888
+            }
+          ]
+        },
+        {
+          "name": "Команда 11",
+          "logo": "assets/teams_logos/default_logo.png",
+          "points": 0,
+          "matches": "",
+          "players": [
+            {
+              "name": "Gucci_Flop.",
+              "rank": 1228
+            },
+            {
+              "name": "Armad0n_",
+              "rank": 780
+            }
+          ]
+        },
+        {
+          "name": "Команда 13",
+          "logo": "assets/teams_logos/default_logo.png",
+          "points": 0,
+          "matches": "",
+          "players": [
+            {
+              "name": "OskarSir",
+              "rank": 1182
+            },
+            {
+              "name": "SHЄFFF",
+              "rank": 817
+            }
+          ]
+        },
+        {
+          "name": "Команда 5",
+          "logo": "assets/teams_logos/default_logo.png",
+          "points": 0,
+          "matches": "",
+          "players": [
+            {
+              "name": "O3ero0_0",
+              "rank": 1369
+            },
+            {
+              "name": "persohazz0",
+              "rank": 654
+            }
+          ]
+        },
+        {
+          "name": "Команда 27",
+          "logo": "assets/teams_logos/default_logo.png",
+          "points": 0,
+          "matches": "",
+          "players": [
+            {
+              "name": "PetruХa",
+              "rank": 976
+            },
+            {
+              "name": "StormDimu4",
+              "rank": 905
+            }
+          ]
+        },
+        {
+          "name": "Команда 1",
+          "logo": "assets/teams_logos/default_logo.png",
+          "points": 0,
+          "matches": "",
+          "players": [
+            {
+              "name": "K0bzar_",
+              "rank": 1698
+            },
+            {
+              "name": "Mayyar313",
+              "rank": 342
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Група Г",
+      "teams": [
+        {
+          "name": "Команда 2",
+          "logo": "assets/teams_logos/default_logo.png",
+          "points": 0,
+          "matches": "",
+          "players": [
+            {
+              "name": "Deicidiikami",
+              "rank": 1514
+            },
+            {
+              "name": "Evora_Ks",
+              "rank": 526
+            }
+          ]
+        },
+        {
+          "name": "Команда 14",
+          "logo": "assets/teams_logos/default_logo.png",
+          "points": 0,
+          "matches": "",
+          "players": [
+            {
+              "name": "MasterFromUA",
+              "rank": 1165
+            },
+            {
+              "name": "Kruverto",
+              "rank": 826
+            }
+          ]
+        },
+        {
+          "name": "Команда 23",
+          "logo": "assets/teams_logos/default_logo.png",
+          "points": 0,
+          "matches": "",
+          "players": [
+            {
+              "name": "necikavyi.",
+              "rank": 1040
+            },
+            {
+              "name": "itsmerlylook",
+              "rank": 884
+            }
+          ]
+        },
+        {
+          "name": "Команда 30",
+          "logo": "assets/teams_logos/default_logo.png",
+          "points": 0,
+          "matches": "",
+          "players": [
+            {
+              "name": "Joinus_R",
+              "rank": 960
+            },
+            {
+              "name": "Nemesh.YUH",
+              "rank": 929
+            }
+          ]
+        },
+        {
+          "name": "Команда 28",
+          "logo": "assets/teams_logos/default_logo.png",
+          "points": 0,
+          "matches": "",
+          "players": [
+            {
+              "name": "DiTiger9",
+              "rank": 962
+            },
+            {
+              "name": "Vezant",
+              "rank": 911
+            }
+          ]
+        },
+        {
+          "name": "Команда 31",
+          "logo": "assets/teams_logos/default_logo.png",
+          "points": 0,
+          "matches": "",
+          "players": [
+            {
+              "name": "HydroPedik",
+              "rank": 949
+            },
+            {
+              "name": "zel1xx.",
+              "rank": 943
+            }
+          ]
+        },
+        {
+          "name": "Команда 8",
+          "logo": "assets/teams_logos/default_logo.png",
+          "points": 0,
+          "matches": "",
+          "players": [
+            {
+              "name": "AVtikks",
+              "rank": 1275
+            },
+            {
+              "name": "Daviinnchi.",
+              "rank": 721
+            }
+          ]
+        },
+        {
+          "name": "Команда 10",
+          "logo": "assets/teams_logos/default_logo.png",
+          "points": 0,
+          "matches": "",
+          "players": [
+            {
+              "name": "Av9i",
+              "rank": 1238
+            },
+            {
+              "name": "Artemwee",
+              "rank": 765
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -214,12 +214,20 @@ a {
   height: 100%;
 }
 
+.img-cup:not(.disabled):hover {
+  background-color: #fcfc2b;
+}
+
 .img-info {
   background-color: #ffffff80;
   -webkit-mask: url(assets/info.svg) no-repeat center;
   mask: url(assets/info.svg) no-repeat center;
   width: 100%;
   height: 100%;
+}
+
+.img-info:not(.disabled):hover {
+  background-color: #fcfc2b;
 }
 
 .img-info.active {
@@ -616,7 +624,7 @@ footer {
   display: flex;
   justify-content: flex-start;
   align-items: center;
-  background: linear-gradient(90deg, rgba(160, 252, 43, 0.2) 8.8%, rgba(95, 150, 26, 0) 91.06%);
+  background: linear-gradient(90deg, rgba(252, 252, 43, 0.2) 8.8%, rgba(95, 150, 26, 0) 91.06%);
 }
 
 .group-header-text {
