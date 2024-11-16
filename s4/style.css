@@ -992,6 +992,10 @@ footer {
   }
   .info-content {
     width: 100% !important;
+    max-width: unset;
+  }
+  .ic-info-block {
+    justify-content: space-between;
   }
   .main-image {
     height: auto;
@@ -1018,6 +1022,10 @@ footer {
 
 @media screen and (max-width: 680px) {
   .header-right {
+    display: none;
+  }
+
+  .banka-qr {
     display: none;
   }
 
