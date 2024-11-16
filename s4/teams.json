@@ -352,8 +352,8 @@
           ]
         },
         {
-          "name": "Команда 5",
-          "logo": "assets/teams_logos/default_logo.png",
+          "name": "GodsInCars",
+          "logo": "assets/teams_logos/GodsInCars.jpg",
           "points": 0,
           "matches": "",
           "players": [
@@ -363,6 +363,7 @@
             },
             {
               "name": "persohazz0",
+              "isCap": true,
               "rank": 654
             }
           ]

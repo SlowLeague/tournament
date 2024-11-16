@@ -649,8 +649,12 @@ footer {
 .team-logo {
   background-color: #1f1f1f;
   border-radius: 10px;
+  width: 68px;
+  height: 68px;
 }
-
+.team-logo-image {
+  border-radius: 10px;
+}
 .group-winner {
   box-shadow: inset gold 0px 0px 4px;
 }
