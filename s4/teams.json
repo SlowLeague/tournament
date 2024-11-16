@@ -201,8 +201,8 @@
           ]
         },
         {
-          "name": "Команда 9",
-          "logo": "assets/teams_logos/default_logo.png",
+          "name": "Acrux",
+          "logo": "assets/teams_logos/Acrux.png",
           "points": 0,
           "matches": "",
           "players": [
@@ -212,6 +212,7 @@
             },
             {
               "name": "Ains171",
+              "isCap": true,
               "rank": 741
             }
           ]
@@ -407,13 +408,14 @@
       "name": "Група Г",
       "teams": [
         {
-          "name": "Команда 23",
-          "logo": "assets/teams_logos/default_logo.png",
+          "name": "TCK",
+          "logo": "assets/teams_logos/TCK.jpg",
           "points": 0,
           "matches": "",
           "players": [
             {
               "name": "necikavyi.",
+              "isCap": true,
               "rank": 1040
             },
             {
@@ -519,13 +521,14 @@
           ]
         },
         {
-          "name": "Команда 10",
-          "logo": "assets/teams_logos/default_logo.png",
+          "name": "Sho?",
+          "logo": "assets/teams_logos/sho.jpg",
           "points": 0,
           "matches": "",
           "players": [
             {
               "name": "Av9i",
+              "isCap": true,
               "rank": 1238
             },
             {
