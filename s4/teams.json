@@ -385,13 +385,14 @@
           ]
         },
         {
-          "name": "Команда 1",
-          "logo": "assets/teams_logos/default_logo.png",
+          "name": "Bimba",
+          "logo": "assets/teams_logos/Bimba.png",
           "points": 0,
           "matches": "",
           "players": [
             {
               "name": "K0bzar_",
+              "isCap": true,
               "rank": 1698
             },
             {
