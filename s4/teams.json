@@ -407,6 +407,22 @@
       "name": "Група Г",
       "teams": [
         {
+          "name": "Команда 23",
+          "logo": "assets/teams_logos/default_logo.png",
+          "points": 0,
+          "matches": "",
+          "players": [
+            {
+              "name": "necikavyi.",
+              "rank": 1040
+            },
+            {
+              "name": "itsmerlylook",
+              "rank": 884
+            }
+          ]
+        },
+        {
           "name": "Команда 2",
           "logo": "assets/teams_logos/default_logo.png",
           "points": 0,
@@ -435,22 +451,6 @@
             {
               "name": "Kruverto",
               "rank": 826
-            }
-          ]
-        },
-        {
-          "name": "Команда 23",
-          "logo": "assets/teams_logos/default_logo.png",
-          "points": 0,
-          "matches": "",
-          "players": [
-            {
-              "name": "necikavyi.",
-              "rank": 1040
-            },
-            {
-              "name": "itsmerlylook",
-              "rank": 884
             }
           ]
         },
