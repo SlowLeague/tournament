@@ -286,13 +286,14 @@
           ]
         },
         {
-          "name": "Команда 26",
-          "logo": "assets/teams_logos/default_logo.png",
+          "name": "SKUFS",
+          "logo": "assets/teams_logos/SKUFS.png",
           "points": 0,
           "matches": "",
           "players": [
             {
               "name": "Tw-De_n4ik",
+              "isCap": true,
               "rank": 1013
             },
             {
