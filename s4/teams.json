@@ -4,13 +4,14 @@
       "name": "Група А",
       "teams": [
         {
-          "name": "Команда 7",
-          "logo": "assets/teams_logos/default_logo.png",
+          "name": "Knapp Team",
+          "logo": "assets/teams_logos/Knapp Team.png",
           "points": 0,
           "matches": "",
           "players": [
             {
               "name": "fracquo",
+              "isCap": true,
               "rank": 1361
             },
             {
@@ -68,13 +69,14 @@
           ]
         },
         {
-          "name": "Команда 18",
-          "logo": "assets/teams_logos/default_logo.png",
+          "name": "BAKA",
+          "logo": "assets/teams_logos/BAKA.jpg",
           "points": 0,
           "matches": "",
           "players": [
             {
               "name": "kanger533",
+              "isCap": true,
               "rank": 1119
             },
             {
@@ -84,8 +86,8 @@
           ]
         },
         {
-          "name": "Команда 20",
-          "logo": "assets/teams_logos/default_logo.png",
+          "name": "Podpivasy",
+          "logo": "assets/teams_logos/Podpivasy.png",
           "points": 0,
           "matches": "",
           "players": [
@@ -95,6 +97,7 @@
             },
             {
               "name": "g1b509",
+              "isCap": true,
               "rank": 863
             }
           ]
@@ -110,8 +113,8 @@
               "rank": 1034
             },
             {
-              "name": "UKRFLIPRESET",
-              "rank": 885
+              "name": "OGVaflikNefermer",
+              "rank": 888
             }
           ]
         },
@@ -315,8 +318,8 @@
               "rank": 1016
             },
             {
-              "name": "OGVaflikNefermer",
-              "rank": 888
+              "name": "UKRFLIPRESET",
+              "rank": 885
             }
           ]
         },
@@ -425,13 +428,14 @@
           ]
         },
         {
-          "name": "Команда 2",
-          "logo": "assets/teams_logos/default_logo.png",
+          "name": "NOOOO",
+          "logo": "assets/teams_logos/NOOOO.png",
           "points": 0,
           "matches": "",
           "players": [
             {
               "name": "Deicidiikami",
+              "isCap": true,
               "rank": 1514
             },
             {
@@ -457,13 +461,14 @@
           ]
         },
         {
-          "name": "Команда 30",
-          "logo": "assets/teams_logos/default_logo.png",
+          "name": "Dark Experience",
+          "logo": "assets/teams_logos/Dark Experience.jpg",
           "points": 0,
           "matches": "",
           "players": [
             {
               "name": "Joinus_R",
+              "isCap": true,
               "rank": 960
             },
             {
