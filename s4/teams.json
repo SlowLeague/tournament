@@ -173,13 +173,14 @@
           ]
         },
         {
-          "name": "Команда 21",
-          "logo": "assets/teams_logos/default_logo.png",
+          "name": "Motive",
+          "logo": "assets/teams_logos/Motive.png",
           "points": 0,
           "matches": "",
           "players": [
             {
               "name": "Dxnku",
+              "isCap": true,
               "rank": 1070
             },
             {
