@@ -189,13 +189,14 @@
           ]
         },
         {
-          "name": "Команда 4",
-          "logo": "assets/teams_logos/default_logo.png",
+          "name": "2 YTKONOCA",
+          "logo": "assets/teams_logos/2 YTKONOCA.jpg",
           "points": 0,
           "matches": "",
           "players": [
             {
               "name": "Xenomovi4",
+              "isCap": true,
               "rank": 1463
             },
             {
