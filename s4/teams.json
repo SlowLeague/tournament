@@ -499,13 +499,14 @@
           ]
         },
         {
-          "name": "Команда 31",
-          "logo": "assets/teams_logos/default_logo.png",
+          "name": "Hortitsya",
+          "logo": "assets/teams_logos/Hortitsya.jpg",
           "points": 0,
           "matches": "",
           "players": [
             {
               "name": "HydroPedik",
+              "isCap": true,
               "rank": 949
             },
             {
