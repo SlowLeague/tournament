@@ -140,8 +140,8 @@
       "name": "Група Б",
       "teams": [
         {
-          "name": "Команда 16",
-          "logo": "assets/teams_logos/default_logo.png",
+          "name": "Blazing Foxes",
+          "logo": "assets/teams_logos/Blazing Foxes.png",
           "points": 0,
           "matches": "",
           "players": [
@@ -151,6 +151,7 @@
             },
             {
               "name": "usertrace",
+              "isCap": true,
               "rank": 837
             }
           ]
@@ -340,13 +341,14 @@
           ]
         },
         {
-          "name": "Команда 13",
-          "logo": "assets/teams_logos/default_logo.png",
+          "name": "Demo Demons",
+          "logo": "assets/teams_logos/Demo Demons.png",
           "points": 0,
           "matches": "",
           "players": [
             {
               "name": "OskarSir",
+              "isCap": true,
               "rank": 1182
             },
             {
