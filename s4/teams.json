@@ -254,13 +254,14 @@
           ]
         },
         {
-          "name": "Команда 6",
-          "logo": "assets/teams_logos/default_logo.png",
+          "name": "Mibombo",
+          "logo": "assets/teams_logos/Mibombo.png",
           "points": 0,
           "matches": "",
           "players": [
             {
               "name": "Mencher_",
+              "isCap": true,
               "rank": 1363
             },
             {
