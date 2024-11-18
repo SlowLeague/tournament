@@ -830,6 +830,10 @@ footer {
   text-wrap: wrap;
 }
 
+.ac-trigger {
+  color: #fcfc2b !important;
+}
+
 .i-group-info {
   color: #ffffff80;
   font-size: 14px;
