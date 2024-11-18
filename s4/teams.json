@@ -158,8 +158,8 @@
           ]
         },
         {
-          "name": "Команда 19",
-          "logo": "assets/teams_logos/default_logo.png",
+          "name": "Aero Flames",
+          "logo": "assets/teams_logos/Aero Flames.jpg",
           "points": 0,
           "matches": "",
           "players": [
@@ -169,6 +169,7 @@
             },
             {
               "name": "Did_noDavid",
+              "isCap": true,
               "rank": 853
             }
           ]
