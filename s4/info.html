@@ -13,6 +13,8 @@
     <link rel="stylesheet" href="style.css" />
     <script src="https://unpkg.com/@popperjs/core@2"></script>
     <script src="https://unpkg.com/tippy.js@6"></script>
+    <link rel="stylesheet" href="https://unpkg.com/accordion-js@3.3.4/dist/accordion.min.css" />
+    <script src="https://unpkg.com/accordion-js@3.3.4/dist/accordion.min.js"></script>
     <title>Slow League PANAKARMANA</title>
   </head>
 
@@ -64,86 +66,174 @@
         </div>
       </div>
 
-      <div class="main-info-content">
-        <span class="info-header"> Основні положення Slow League PANAKARMANA </span>
-        <div class="i-groups">
-          <div class="i-group">
-            <span class="i-group-name"> Загальні правила </span>
-            <span class="i-group-info">
-              1. Заміна ніку після реєстрації без попередження карається дискваліфікацією з турніру. <br />
-              2. Неявка на матч без попередження мінімум за добу - карається технічною поразкою команди у матчі. У
-              випадку якщо гравець попередив організаторів будь-яким доступним способом - відбувається пошук заміни
-              гравця. Умови заміни обговорюються персонально у кожному випадку. <br />
-              3. Порушення правил спільноти у чаті ліги у діскорді караються дискваліфікацією з змагань та забороною
-              приймати участь у наступному сезоні.
-            </span>
+      <div class="info-page-wrapper">
+        <div class="main-info-content">
+          <span class="info-header"> Правила </span>
+          <div class="i-groups">
+            <div class="i-group">
+              <span class="i-group-name"> Загальні правила </span>
+              <span class="i-group-info">
+                1. Заміна ніку після реєстрації без попередження карається дискваліфікацією з турніру. <br />
+                2. Неявка на матч без попередження мінімум за добу - карається технічною поразкою команди у матчі. У
+                випадку якщо гравець попередив організаторів будь-яким доступним способом - відбувається пошук заміни
+                гравця. Умови заміни обговорюються персонально у кожному випадку. <br />
+                3. Порушення правил спільноти у чаті ліги у діскорді караються дискваліфікацією з змагань та забороною
+                приймати участь у наступному сезоні.
+              </span>
+            </div>
+            <div class="i-group">
+              <span class="i-group-name"> Правила спортивної поведінки </span>
+              <span class="i-group-info"
+                >1. Не бути токсичним під час матчу у відношенні до свого тімейта, суперників та організаторів ліги.
+                <br />
+                2. Не спамити в чат під час матчу та на трансляціях змагання. <br />
+                3. Не виходити з матчу до його завершення. Не підставляйте таким чином своїх тімейтів. <br />
+                Надіюсь усім зрозумілі ці три прості правила і всі будуть гідно себе поводити на змаганнях. Усім удачі і
+                нехай переможе найсильніший.<br />
+                4. Випадки постійного та довготривалого ігнорування гравцями організаторів карається виключенням з ліги,
+                з подальшою заміною на гравця з резерву, без можливості повернутись.<br />
+              </span>
+            </div>
           </div>
-          <div class="i-group">
-            <span class="i-group-name"> Правила спортивної поведінки </span>
-            <span class="i-group-info"
-              >1. Не бути токсичним під час матчу у відношенні до свого тімейта, суперників та організаторів ліги.
-              <br />
-              2. Не спамити в чат під час матчу та на трансляціях змагання. <br />
-              3. Не виходити з матчу до його завершення. Не підставляйте таким чином своїх тімейтів. <br />
-              Надіюсь усім зрозумілі ці три прості правила і всі будуть гідно себе поводити на змаганнях. Усім удачі і
-              нехай переможе найсильніший.<br />
-              4. Випадки постійного та довготривалого ігнорування гравцями організаторів карається виключенням з ліги, з
-              подальшою заміною на гравця з резерву, без можливості повернутись.<br />
-            </span>
+        </div>
+        <div class="accordion-container main-info-content">
+          <span class="info-header"> F.A.Q. </span>
+          <div class="i-group-ac ac">
+            <h2 class="ac-header">
+              <button type="button" class="ac-trigger"><span class="i-group-name"> Груповий етап </span></button>
+            </h2>
+            <div class="ac-panel">
+              <p class="ac-text">
+                <span class="i-group-info"
+                  >У груповому етапі команди поділені в 4 групи по 8 команд. Груповий етап буде тривати 7 турів, тобто
+                  кожна команда зіграє 7 матчів (по одному матчу з кожним противником у групі).<br />
+                </span>
+              </p>
+            </div>
           </div>
-          <div class="i-group">
-            <span class="i-group-name"> Груповий етап </span>
-            <span class="i-group-info">Буде оголошено після завершення реєстрації гравців<br /> </span>
+          <div class="i-group-ac ac">
+            <h2 class="ac-header">
+              <button type="button" class="ac-trigger"><span class="i-group-name"> Нарахування балів </span></button>
+            </h2>
+
+            <div class="ac-panel">
+              <p class="ac-text">
+                <span class="i-group-info"
+                  >За перемогу в матчі в якому не було додаткового часу (далі Д/Ч) команді буде зараховано 3 бали.<br />
+                  За поразку в матчі в якому не було Д/Ч команда отримає 0 балів.<br />
+                  За перемогу в матчі в якому був Д/Ч команді буде зараховано 2 бали.<br />
+                  За поразку в матчі в якому був Д/Ч команді буде зараховано 1 бал.<br />
+                  І по сумі балів буде формуватись група. Шість команд з групи будуть проходити у плей-офф. Перше та
+                  друге місця підуть у верхню сітку плей-офф, а 3-6 підуть у нижню. 7 та 8 місця покинуть турнір.<br />
+                </span>
+              </p>
+            </div>
           </div>
-          <div class="i-group">
-            <span class="i-group-name"> Нарахування балів </span>
-            <span class="i-group-info">Буде оголошено після завершення реєстрації гравців</span>
+          <div class="i-group-ac ac">
+            <h2 class="ac-header">
+              <button type="button" class="ac-trigger"><span class="i-group-name"> Плей-офф </span></button>
+            </h2>
+
+            <div class="ac-panel">
+              <p class="ac-text">
+                <span class="i-group-info">
+                  У плей-офф буде верхня та нижня сітки<br />
+                  Команда, що виграла у верхній сітці - проходить далі по верхній сітці, команда, що програла -
+                  переходить у нижню сітку.<br />
+                  Команда, що виглада у нижній сітці - проходить далі по нижній сітці, команда, що програла - вилітає з
+                  турніру.
+                </span>
+              </p>
+            </div>
           </div>
-          <div class="i-group">
-            <span class="i-group-name"> Плей-оф </span>
-            <span class="i-group-info">Буде оголошено після завершення реєстрації гравців</span>
+          <div class="i-group-ac ac">
+            <h2 class="ac-header">
+              <button type="button" class="ac-trigger"><span class="i-group-name"> Чвертьфінали </span></button>
+            </h2>
+            <div class="ac-panel">
+              <p class="ac-text">
+                <span class="i-group-info"
+                  >Матчі чвертьфіналів будуть проходити у форматі «best of 3». <br />
+                  Тобто команді щоб пройти у наступний раунд треба виграти 2 матчі проти свого суперника.<br />
+                  Переможці проходять у півфінали, команди які програли вибувають з змагання.<br />
+                </span>
+              </p>
+            </div>
           </div>
-          <div class="i-group">
-            <span class="i-group-name"> Чвертьфінали </span>
-            <span class="i-group-info">Буде оголошено після завершення реєстрації гравців</span>
+          <div class="i-group-ac ac">
+            <h2 class="ac-header">
+              <button type="button" class="ac-trigger"><span class="i-group-name"> Півфінали </span></button>
+            </h2>
+            <div class="ac-panel">
+              <p class="ac-text">
+                <span class="i-group-info"
+                  >Команди які вийшли у півфінали будуть розподілені по сітці у відповідності з своїми чвертьфінальними
+                  матчами.<br />
+                  Матчі півфіналів будуть проходити у форматі «best of 5». Тобто команді щоб пройти у наступний раунд
+                  треба виграти 3 матчі проти свого суперника.<br />
+                  Команди які виграють у півфіналах проходять у фінал.<br />
+                  Команди які програли зіграють матч за третє призове місце.<br />
+                </span>
+              </p>
+            </div>
           </div>
-          <div class="i-group">
-            <span class="i-group-name"> Півфінали </span>
-            <span class="i-group-info">Буде оголошено після завершення реєстрації гравців</span>
+          <div class="i-group-ac ac">
+            <h2 class="ac-header">
+              <button type="button" class="ac-trigger"><span class="i-group-name"> Фінал </span></button>
+            </h2>
+            <div class="ac-panel">
+              <p class="ac-text">
+                <span class="i-group-info"
+                  >Фінали будуть проходити теж по формату «best of 5».<br />
+                  Першим буде відбуватись матч за третє місце.<br />
+                  І після визначення команди яка посяде третє місце буде відбуватись уже сам фінал, де команди
+                  розіграють головні призи.<br />
+                </span>
+              </p>
+            </div>
           </div>
-          <div class="i-group">
-            <span class="i-group-name"> Фінал </span>
-            <span class="i-group-info">Буде оголошено після завершення реєстрації гравців</span>
+          <div class="i-group-ac ac">
+            <h2 class="ac-header">
+              <button type="button" class="ac-trigger"><span class="i-group-name"> Призи </span></button>
+            </h2>
+            <div class="ac-panel">
+              <p class="ac-text">
+                <span class="i-group-info"
+                  >Усі три призові місця будуть мати свої нагороди, а семе: <br />
+                  1 місце 50% від призового фонду; <br />
+                  2 місце 30% від призового фонду; <br />
+                  3 місце 20% від призового фонду. <br />
+                  Також ви як учасник чи глядач можете приєднатись до збору призового фонду за посиланням
+                  <a class="mono" target="_blank" href="https://send.monobank.ua/jar/5tcUWP1Z4m">Банки МОНО</a>.
+                  Призовий фонд буде накопичуватись до тих пір, поки не визначаться переможці турніру.<br />
+                  Також можна підтримати огранізаторів для того, щоб покращити контент. (Всі кошти підуть на купівлю
+                  програмного забеспечення для того щоб ліга виглядала ще краще!)
+                  <a class="mono" target="_blank" href="https://send.monobank.ua/jar/4e3YyzgmPo"
+                    >Банка для пітримки організаторів</a
+                  >
+                </span>
+              </p>
+            </div>
           </div>
-          <div class="i-group">
-            <span class="i-group-name"> Призи </span>
-            <span class="i-group-info"
-              >Усі три призові місця будуть мати свої нагороди, а семе: <br />
-              1 місце 50% від призового фонду; <br />
-              2 місце 30% від призового фонду; <br />
-              3 місце 20% від призового фонду. <br />
-              Також ви як учасник чи глядач можете приєднатись до збору призового фонду за посиланням
-              <a class="mono" target="_blank" href="https://send.monobank.ua/jar/5tcUWP1Z4m">Банки МОНО</a><br />
-              Або підтримати огранізаторів для того, щоб покращити контент. (Всі кошти підуть на купівлю програмного
-              забеспечення для того щоб ліга виглядала ще краще!)
-              <a class="mono" target="_blank" href="https://send.monobank.ua/jar/4e3YyzgmPo"
-                >Банка для пітримки організаторів</a
-              >
-            </span>
-          </div>
-          <div class="i-group">
-            <span class="i-group-name"> Контакти </span>
-            <span class="i-group-info"
-              >Усі ваші запитання можете писати у діскорді RLUA <a href="https://discord.gg/Z6ngPTVXp3"></a><br />
-              <a class="menu-box" href="https://discord.gg/Z6ngPTVXp3"> <img src="assets/discord.svg" /> </a>
-              <br /><br />
-              P.S. Правила можуть змінюватись в процесі проведення ліги, оскільки тут не передбачені всі потенційно
-              критичні випадки</span
-            >
+          <div class="i-group-ac ac">
+            <h2 class="ac-header">
+              <button type="button" class="ac-trigger"><span class="i-group-name"> Контакти </span></button>
+            </h2>
+            <div class="ac-panel">
+              <p class="ac-text">
+                <span class="i-group-info"
+                  >Усі ваші запитання можете писати у діскорді RLUA <a href="https://discord.gg/Z6ngPTVXp3"></a><br />
+                  <a class="menu-box" href="https://discord.gg/Z6ngPTVXp3"> <img src="assets/discord.svg" /> </a>
+                </span>
+              </p>
+            </div>
           </div>
         </div>
       </div>
     </div>
+    <script>
+      new Accordion('.accordion-container');
+    </script>
     <footer>
       <div class="footer-left">
         <div class="left-menu bottom">

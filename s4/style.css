@@ -777,6 +777,12 @@ footer {
   gap: 20px;
 }
 
+.info-page-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
 .info-header {
   text-shadow: #fcfc2b 0px 0px 10px;
   color: #fcfc2b;
@@ -801,6 +807,17 @@ footer {
   border-radius: 10px;
   padding: 10px;
   width: calc(50% - 30px);
+}
+
+.i-group-ac {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  background-color: #181818 !important;
+  border: none !important;
+  border-radius: 10px;
+  padding: 10px;
+  width: 100% !important;
 }
 
 .i-group-name {

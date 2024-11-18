@@ -518,13 +518,14 @@
           ]
         },
         {
-          "name": "Команда 8",
-          "logo": "assets/teams_logos/default_logo.png",
+          "name": "Barabolka",
+          "logo": "assets/teams_logos/Barabolka.png",
           "points": 0,
           "matches": "",
           "players": [
             {
               "name": "AVtikks",
+              "isCap": true,
               "rank": 1275
             },
             {
