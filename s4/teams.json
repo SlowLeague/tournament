@@ -279,13 +279,14 @@
       "name": "Група В",
       "teams": [
         {
-          "name": "Команда 22",
-          "logo": "assets/teams_logos/default_logo.png",
+          "name": "Di K0sak d3n",
+          "logo": "assets/teams_logos/Di K0sak d3n.png",
           "points": 0,
           "matches": "",
           "players": [
             {
               "name": "DarkDayfr",
+              "isCap": true,
               "rank": 1050
             },
             {
@@ -380,13 +381,14 @@
           ]
         },
         {
-          "name": "Команда 27",
-          "logo": "assets/teams_logos/default_logo.png",
+          "name": "Maihje Astralis",
+          "logo": "assets/teams_logos/Maihje Astralis.jpg",
           "points": 0,
           "matches": "",
           "players": [
             {
               "name": "PetruХa",
+              "isCap": true,
               "rank": 976
             },
             {
@@ -418,8 +420,8 @@
       "name": "Група Г",
       "teams": [
         {
-          "name": "TCK",
-          "logo": "assets/teams_logos/TCK.jpg",
+          "name": "RL 1.6",
+          "logo": "assets/teams_logos/RL16.png",
           "points": 0,
           "matches": "",
           "players": [
