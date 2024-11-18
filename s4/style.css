@@ -784,8 +784,7 @@ footer {
 }
 
 .info-header {
-  text-shadow: #fcfc2b 0px 0px 10px;
-  color: #fcfc2b;
+  color: #fff;
   font-size: 36px;
   font-weight: 700;
   align-self: center;
@@ -821,8 +820,7 @@ footer {
 }
 
 .i-group-name {
-  color: #fcfc2b;
-  text-shadow: #fcfc2b 0px 0px 10px;
+  color: #fff;
   font-size: 18px;
   font-weight: 700;
   line-height: 18.4px;
@@ -831,7 +829,7 @@ footer {
 }
 
 .ac-trigger {
-  color: #fcfc2b !important;
+  color: #fff !important;
 }
 
 .i-group-info {
