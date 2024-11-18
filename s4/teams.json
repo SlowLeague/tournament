@@ -329,13 +329,14 @@
           ]
         },
         {
-          "name": "Команда 11",
-          "logo": "assets/teams_logos/default_logo.png",
+          "name": "Swift Spirit",
+          "logo": "assets/teams_logos/Swift Spirit.png",
           "points": 0,
           "matches": "",
           "players": [
             {
               "name": "Gucci_Flop.",
+              "isCap": true,
               "rank": 1228
             },
             {
