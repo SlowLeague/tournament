@@ -103,13 +103,14 @@
           ]
         },
         {
-          "name": "Команда 24",
-          "logo": "assets/teams_logos/default_logo.png",
+          "name": "pay2win",
+          "logo": "assets/teams_logos/pay2win.jpg",
           "points": 0,
           "matches": "",
           "players": [
             {
               "name": "teddy_line",
+              "isCap": true,
               "rank": 1034
             },
             {
