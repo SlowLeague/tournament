@@ -242,8 +242,8 @@
           ]
         },
         {
-          "name": "Команда 3",
-          "logo": "assets/teams_logos/default_logo.png",
+          "name": "OPILLYA",
+          "logo": "assets/teams_logos/OPILLYA.jpg",
           "points": 0,
           "matches": "",
           "players": [
@@ -253,6 +253,7 @@
             },
             {
               "name": "Shalun Gavrillo",
+              "isCap": true,
               "rank": 529
             }
           ]
