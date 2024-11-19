@@ -455,13 +455,14 @@
           ]
         },
         {
-          "name": "Команда 14",
-          "logo": "assets/teams_logos/default_logo.png",
+          "name": "Synergy Gaming",
+          "logo": "assets/teams_logos/Synergy Gaming.jpg",
           "points": 0,
           "matches": "",
           "players": [
             {
               "name": "MasterFromUA",
+              "isCap": true,
               "rank": 1165
             },
             {
