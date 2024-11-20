@@ -319,13 +319,14 @@
         },
 
         {
-          "name": "Команда 25",
-          "logo": "assets/teams_logos/default_logo.png",
+          "name": "OG UA",
+          "logo": "assets/teams_logos/OG UA.png",
           "points": 0,
           "matches": "",
           "players": [
             {
               "name": "Bilanuk",
+              "isCap": true,
               "rank": 1016
             },
             {
