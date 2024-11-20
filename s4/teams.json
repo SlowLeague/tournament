@@ -37,8 +37,8 @@
           ]
         },
         {
-          "name": "Команда 15",
-          "logo": "assets/teams_logos/default_logo.png",
+          "name": "Cocojambo",
+          "logo": "assets/teams_logos/Cocojambo.png",
           "points": 0,
           "matches": "",
           "players": [
@@ -48,18 +48,20 @@
             },
             {
               "name": "sosna256sosna",
+              "isCap": true,
               "rank": 831
             }
           ]
         },
         {
-          "name": "Команда 17",
-          "logo": "assets/teams_logos/default_logo.png",
+          "name": "Twilight Trainers",
+          "logo": "assets/teams_logos/Twilight Trainers.png",
           "points": 0,
           "matches": "",
           "players": [
             {
               "name": "Crezgep",
+              "isCap": true,
               "rank": 1120
             },
             {
