@@ -228,13 +228,14 @@
           ]
         },
         {
-          "name": "Команда 29",
-          "logo": "assets/teams_logos/default_logo.png",
+          "name": "Dead Space",
+          "logo": "assets/teams_logos/Dead Space.png",
           "points": 0,
           "matches": "",
           "players": [
             {
               "name": "Typa_kach",
+              "isCap": true,
               "rank": 961
             },
             {
