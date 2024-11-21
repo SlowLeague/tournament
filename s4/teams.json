@@ -21,13 +21,14 @@
           ]
         },
         {
-          "name": "Команда 12",
-          "logo": "assets/teams_logos/default_logo.png",
+          "name": "fistingkings52",
+          "logo": "assets/teams_logos/fistingkings52.jpg",
           "points": 0,
           "matches": "",
           "players": [
             {
               "name": "shedruk",
+              "isCap": true,
               "rank": 1200
             },
             {
