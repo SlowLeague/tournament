@@ -496,13 +496,14 @@
           ]
         },
         {
-          "name": "Команда 28",
-          "logo": "assets/teams_logos/default_logo.png",
+          "name": "AlcoBlooded",
+          "logo": "assets/teams_logos/AlcoBlooded.jpg",
           "points": 0,
           "matches": "",
           "players": [
             {
               "name": "DiTiger9",
+              "isCap": true,
               "rank": 962
             },
             {
