@@ -122,8 +122,8 @@
           ]
         },
         {
-          "name": "Команда 32",
-          "logo": "assets/teams_logos/default_logo.png",
+          "name": "UA SNUS",
+          "logo": "assets/teams_logos/UA SNUS.png",
           "points": 0,
           "matches": "",
           "players": [
@@ -133,6 +133,7 @@
             },
             {
               "name": "ruzhkevych",
+              "isCap": true,
               "rank": 945
             }
           ]
