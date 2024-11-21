@@ -47,10 +47,10 @@ let groups = JSON.parse(groupsRequest.responseText).groups;
 
 const teamsArray = getTeams(groups);
 
-// let toursRequest = new XMLHttpRequest();
-// toursRequest.open('GET', 'tours.json', false);
-// toursRequest.send(null);
-// let tours = JSON.parse(toursRequest.responseText).tours;
+let toursRequest = new XMLHttpRequest();
+toursRequest.open('GET', 'tours.json', false);
+toursRequest.send(null);
+let tours = JSON.parse(toursRequest.responseText).tours;
 
 function matchesParse(matches) {
   matches.forEach((match) => {
@@ -67,18 +67,18 @@ function matchesParse(matches) {
   return matches;
 }
 
-// function getActiveTourMatches(tourNumber) {
-//   let matches;
-//   tours.forEach((tour) => {
-//     if (tour.tour == tourNumber) {
-//       matches = tour.matches;
-//     }
-//   });
-//   matches = matchesParse(matches);
-//   return matches;
-// }
+function getActiveTourMatches(tourNumber) {
+  let matches;
+  tours.forEach((tour) => {
+    if (tour.tour == tourNumber) {
+      matches = tour.matches;
+    }
+  });
+  matches = matchesParse(matches);
+  return matches;
+}
 
-// matches = getActiveTourMatches(activeTour);
+matches = getActiveTourMatches(activeTour);
 
 function sortTeamsByPoints(groups) {
   return groups.map((group) => {
@@ -191,9 +191,9 @@ function renderGroupsList(groups) {
       }
       teamIconCup.appendChild(teamIconCupImg);
 
-      // if (isTop2) {
-      //   teamRight.appendChild(teamIconCup);
-      // }
+      if (isTop2) {
+        teamRight.appendChild(teamIconCup);
+      }
       const teamRightContainer = document.createElement('div');
       teamRightContainer.className = 'team-right';
       const wrString = document.createElement('div');
@@ -318,9 +318,9 @@ function generateMatchHTML(match) {
 
 document.addEventListener('DOMContentLoaded', () => {
   renderGroupsList(groups);
-  // matches.forEach((match) => {
-  //   generateMatchHTML(match);
-  // });
+  matches.forEach((match) => {
+    generateMatchHTML(match);
+  });
 });
 
 document.getElementById('tour-tabs').addEventListener('click', (e) => {

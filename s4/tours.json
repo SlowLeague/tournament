@@ -1,0 +1,1383 @@
+{
+  "tours": [
+    {
+      "tour": 1,
+      "matches": [
+        {
+          "team1": {
+            "name": "Knapp Team",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "UA SNUS",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "fistingkings52",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "pay2win",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Cocojambo",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Podpivasy",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Twilight Trainers",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "BAKA",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Blazing Foxes",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Mibombo",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Aero Flames",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "OPILLYA",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Motive",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Dead Space",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "2 YTKONOCA",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Acrux",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Di K0sak d3n",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Bimba",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "SKUFS",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Maihje Astralis",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "OG UA",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "GodsInCars",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Swift Spirit",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Demo Demons",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "RL 1.6",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Sho?",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "NOOOO",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Barabolka",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Synergy Gaming",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Hortitsya",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Dark Experience",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "AlcoBlooded",
+            "isWinner": false,
+            "score": 0
+          }
+        }
+      ]
+    },
+    {
+      "tour": 2,
+      "matches": [
+        {
+          "team1": {
+            "name": "pay2win",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Knapp Team",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "UA SNUS",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Podpivasy",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "fistingkings52",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "BAKA",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Cocojambo",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Twilight Trainers",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "OPILLYA",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Blazing Foxes",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Mibombo",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Dead Space",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Aero Flames",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Acrux",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Motive",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "2 YTKONOCA",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Maihje Astralis",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Di K0sak d3n",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Bimba",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "GodsInCars",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "SKUFS",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Demo Demons",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "OG UA",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Swift Spirit",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Barabolka",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "RL 1.6",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Sho?",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Hortitsya",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "NOOOO",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "AlcoBlooded",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Synergy Gaming",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Dark Experience",
+            "isWinner": false,
+            "score": 0
+          }
+        }
+      ]
+    },
+    {
+      "tour": 3,
+      "matches": [
+        {
+          "team1": {
+            "name": "Knapp Team",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Podpivasy",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "pay2win",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "BAKA",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "UA SNUS",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Twilight Trainers",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "fistingkings52",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Cocojambo",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Blazing Foxes",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Dead Space",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "OPILLYA",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Acrux",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Mibombo",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "2 YTKONOCA",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Aero Flames",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Motive",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Di K0sak d3n",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "GodsInCars",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Maihje Astralis",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Demo Demons",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Bimba",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Swift Spirit",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "SKUFS",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "OG UA",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "RL 1.6",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Hortitsya",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Barabolka",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "AlcoBlooded",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Sho?",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Dark Experience",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "NOOOO",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Synergy Gaming",
+            "isWinner": false,
+            "score": 0
+          }
+        }
+      ]
+    },
+    {
+      "tour": 4,
+      "matches": [
+        {
+          "team1": {
+            "name": "BAKA",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Knapp Team",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Podpivasy",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Twilight Trainers",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "pay2win",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Cocojambo",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "UA SNUS",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "fistingkings52",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Acrux",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Blazing Foxes",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Dead Space",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "2 YTKONOCA",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "OPILLYA",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Motive",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Mibombo",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Aero Flames",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Demo Demons",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Di K0sak d3n",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "GodsInCars",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Swift Spirit",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Maihje Astralis",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "OG UA",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Bimba",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "SKUFS",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "AlcoBlooded",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "RL 1.6",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Hortitsya",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Dark Experience",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Barabolka",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Synergy Gaming",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Sho?",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "NOOOO",
+            "isWinner": false,
+            "score": 0
+          }
+        }
+      ]
+    },
+    {
+      "tour": 5,
+      "matches": [
+        {
+          "team1": {
+            "name": "Knapp Team",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Twilight Trainers",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "BAKA",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Cocojambo",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Podpivasy",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "fistingkings52",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "pay2win",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "UA SNUS",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Blazing Foxes",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "2 YTKONOCA",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Acrux",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Motive",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Dead Space",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Aero Flames",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "OPILLYA",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Mibombo",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Di K0sak d3n",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Swift Spirit",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Demo Demons",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "OG UA",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "GodsInCars",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "SKUFS",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Maihje Astralis",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Bimba",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "RL 1.6",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Dark Experience",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "AlcoBlooded",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Synergy Gaming",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Hortitsya",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "NOOOO",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Barabolka",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Sho?",
+            "isWinner": false,
+            "score": 0
+          }
+        }
+      ]
+    },
+    {
+      "tour": 6,
+      "matches": [
+        {
+          "team1": {
+            "name": "Cocojambo",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Knapp Team",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Twilight Trainers",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "fistingkings52",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "BAKA",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "UA SNUS",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Podpivasy",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "pay2win",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Motive",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Blazing Foxes",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "2 YTKONOCA",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Aero Flames",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Acrux",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Mibombo",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Dead Space",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "OPILLYA",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "OG UA",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Di K0sak d3n",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Swift Spirit",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "SKUFS",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Demo Demons",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Bimba",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "GodsInCars",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Maihje Astralis",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Synergy Gaming",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "RL 1.6",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Dark Experience",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "NOOOO",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "AlcoBlooded",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Sho?",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Hortitsya",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Barabolka",
+            "isWinner": false,
+            "score": 0
+          }
+        }
+      ]
+    },
+    {
+      "tour": 7,
+      "matches": [
+        {
+          "team1": {
+            "name": "Knapp Team",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "fistingkings52",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Cocojambo",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "UA SNUS",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Twilight Trainers",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "pay2win",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "BAKA",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Podpivasy",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Blazing Foxes",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Aero Flames",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Motive",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Mibombo",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "2 YTKONOCA",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "OPILLYA",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Acrux",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Dead Space",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Di K0sak d3n",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "SKUFS",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "OG UA",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Bimba",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Swift Spirit",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Maihje Astralis",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Demo Demons",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "GodsInCars",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "RL 1.6",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "NOOOO",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Synergy Gaming",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Sho?",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "Dark Experience",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Barabolka",
+            "isWinner": false,
+            "score": 0
+          }
+        },
+        {
+          "team1": {
+            "name": "AlcoBlooded",
+            "isWinner": true,
+            "score": 0
+          },
+          "team2": {
+            "name": "Hortitsya",
+            "isWinner": false,
+            "score": 0
+          }
+        }
+      ]
+    }
+  ]
+}
