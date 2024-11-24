@@ -9,14 +9,18 @@ body {
 .splide__pagination__page.is-active {
   background: #fcfc2b !important;
 }
-/* 
+
+.running:hover > div {
+  animation-play-state: paused;
+}
+
 .running {
   background: #121212;
   overflow: hidden;
   height: 50px;
   position: relative;
 }
-.running div {
+.running > div {
   display: flex;
   flex-direction: row;
   justify-content: space-around;
@@ -26,10 +30,12 @@ body {
   height: 30px;
   transform: translate(100%, 0);
 }
-.running div p {
+.running div .top-donater {
   color: #fcfc2b;
   text-transform: uppercase;
   font-size: 20px;
+  display: flex;
+  gap: 20px;
 }
 .running div img {
   height: 30px;
@@ -58,7 +64,7 @@ body {
   100% {
     transform: translate(100%, 0);
   }
-} */
+}
 
 /* HEADER STYLES */
 
@@ -1097,6 +1103,15 @@ footer {
   .match-info {
     width: 100%;
     flex: unset;
+  }
+  .top-donater {
+    font-size: 14px !important;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .running {
+    display: none;
   }
 }
 
