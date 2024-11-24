@@ -177,13 +177,14 @@ function renderGroupsList(groups) {
       teamPoints.className = 'team-points';
       teamPoints.textContent = team.points;
       const isTop2 = index < 2;
+      const isLowerBracket = index < 6 && index > 1;
       const teamIconCup = document.createElement('div');
       teamIconCup.className = 'team-icon-cup';
       if (team.group_winner) {
         teamIconCup.className += ' group-winner';
       }
       const teamIconCupImg = document.createElement('img');
-      if (team.group_winner) {
+      if (isTop2) {
         teamIconCupImg.className = 'gw_cup';
         teamIconCupImg.src = 'assets/cup3.svg';
       } else {
@@ -191,7 +192,7 @@ function renderGroupsList(groups) {
       }
       teamIconCup.appendChild(teamIconCupImg);
 
-      if (isTop2) {
+      if (isTop2 || isLowerBracket) {
         teamRight.appendChild(teamIconCup);
       }
       const teamRightContainer = document.createElement('div');
