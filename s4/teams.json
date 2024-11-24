@@ -305,7 +305,7 @@
         {
           "name": "SKUFS",
           "logo": "assets/teams_logos/skufs.png",
-          "points": 2,
+          "points": 5,
           "matches": "W W",
           "players": [
             {
@@ -357,7 +357,7 @@
         {
           "name": "Demo Demons",
           "logo": "assets/teams_logos/Demo Demons.png",
-          "points": 6,
+          "points": 3,
           "matches": "L W",
           "players": [
             {
