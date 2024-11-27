@@ -145,23 +145,6 @@
       "name": "Група Б",
       "teams": [
         {
-          "name": "Blazing Foxes",
-          "logo": "assets/teams_logos/Blazing Foxes.png",
-          "points": 0,
-          "matches": "L L",
-          "players": [
-            {
-              "name": "h5d.",
-              "rank": 1141
-            },
-            {
-              "name": "usertrace",
-              "isCap": true,
-              "rank": 837
-            }
-          ]
-        },
-        {
           "name": "Aero Flames",
           "logo": "assets/teams_logos/Aero Flames.jpg",
           "points": 6,
@@ -277,6 +260,23 @@
             {
               "name": "mats0_0_0",
               "rank": 698
+            }
+          ]
+        },
+        {
+          "name": "Blazing Foxes",
+          "logo": "assets/teams_logos/Blazing Foxes.png",
+          "points": 0,
+          "matches": "L L",
+          "players": [
+            {
+              "name": "Sugar-_-bunny",
+              "rank": 1062
+            },
+            {
+              "name": "usertrace",
+              "isCap": true,
+              "rank": 837
             }
           ]
         }
