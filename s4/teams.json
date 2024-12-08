@@ -23,8 +23,8 @@
         {
           "name": "fistingkings52",
           "logo": "assets/teams_logos/fistingkings52.jpg",
-          "points": 5,
-          "matches": "W W",
+          "points": 8,
+          "matches": "W W W",
           "players": [
             {
               "name": "shedruk",
@@ -41,7 +41,7 @@
           "name": "Cocojambo",
           "logo": "assets/teams_logos/Cocojambo.png",
           "points": 4,
-          "matches": "W L",
+          "matches": "L W L",
           "players": [
             {
               "name": "Mixxenpp",
@@ -91,8 +91,8 @@
         {
           "name": "Podpivasy",
           "logo": "assets/teams_logos/podpivasy.png",
-          "points": 2,
-          "matches": "W",
+          "points": 5,
+          "matches": "W W",
           "players": [
             {
               "name": "hon4cc",
@@ -126,7 +126,7 @@
           "name": "UA SNUS",
           "logo": "assets/teams_logos/UA SNUS.png",
           "points": 0,
-          "matches": "L",
+          "matches": "L L",
           "players": [
             {
               "name": "yalox223",
@@ -147,8 +147,8 @@
         {
           "name": "Aero Flames",
           "logo": "assets/teams_logos/Aero Flames.jpg",
-          "points": 6,
-          "matches": "W W",
+          "points": 7,
+          "matches": "L W W",
           "players": [
             {
               "name": "nazzarko.00oo",
@@ -164,8 +164,8 @@
         {
           "name": "Motive",
           "logo": "assets/teams_logos/motive.png",
-          "points": 0,
-          "matches": "L L",
+          "points": 2,
+          "matches": "W L L",
           "players": [
             {
               "name": "Dxnku",
@@ -340,8 +340,8 @@
         {
           "name": "Swift Spirit",
           "logo": "assets/teams_logos/Swift Spirit.png",
-          "points": 3,
-          "matches": "W L",
+          "points": 6,
+          "matches": "W W L",
           "players": [
             {
               "name": "Gucci_Flop.",
@@ -357,8 +357,8 @@
         {
           "name": "Demo Demons",
           "logo": "assets/teams_logos/Demo Demons.png",
-          "points": 3,
-          "matches": "L W",
+          "points": 6,
+          "matches": "W L W",
           "players": [
             {
               "name": "OskarSir",
@@ -392,7 +392,7 @@
           "name": "Maihje Astralis",
           "logo": "assets/teams_logos/Maihje Astralis.jpg",
           "points": 3,
-          "matches": "W L",
+          "matches": "L W L",
           "players": [
             {
               "name": "PetruХa",
@@ -409,7 +409,7 @@
           "name": "Bimba",
           "logo": "assets/teams_logos/Bimba.png",
           "points": 6,
-          "matches": "W W",
+          "matches": "L W W",
           "players": [
             {
               "name": "K0bzar_",
@@ -481,8 +481,8 @@
         {
           "name": "Dark Experience",
           "logo": "assets/teams_logos/Dark Experience.jpg",
-          "points": 2,
-          "matches": "W L",
+          "points": 3,
+          "matches": "L W L",
           "players": [
             {
               "name": "Joinus_R",
@@ -549,8 +549,8 @@
         {
           "name": "Sho?",
           "logo": "assets/teams_logos/sho.jpg",
-          "points": 6,
-          "matches": "W W",
+          "points": 8,
+          "matches": "W W W",
           "players": [
             {
               "name": "Av9i",

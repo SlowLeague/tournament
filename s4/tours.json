@@ -230,15 +230,16 @@
           }
         },
         {
+          "demo": "https://www.youtube.com/live/pROIGP65ID4?si=wo1our-Nhg_6DWv7&t=230",
           "team1": {
             "name": "UA SNUS",
-            "isWinner": true,
+            "isWinner": false,
             "score": 0
           },
           "team2": {
             "name": "Podpivasy",
-            "isWinner": false,
-            "score": 0
+            "isWinner": true,
+            "score": 1
           }
         },
         {
@@ -465,15 +466,16 @@
           }
         },
         {
+          "demo": "https://www.youtube.com/live/pROIGP65ID4?si=xExo5eOrd1O31R7w&t=913",
           "team1": {
             "name": "fistingkings52",
             "isWinner": true,
-            "score": 0
+            "score": 2
           },
           "team2": {
             "name": "Cocojambo",
             "isWinner": false,
-            "score": 0
+            "score": 1
           }
         },
         {
@@ -513,15 +515,16 @@
           }
         },
         {
+          "demo": "https://www.youtube.com/live/pROIGP65ID4?si=9iy106U9mij3-yLw&t=1903",
           "team1": {
             "name": "Aero Flames",
-            "isWinner": true,
-            "score": 0
+            "isWinner": false,
+            "score": 2
           },
           "team2": {
             "name": "Motive",
-            "isWinner": false,
-            "score": 0
+            "isWinner": true,
+            "score": 3
           }
         },
         {
@@ -537,27 +540,29 @@
           }
         },
         {
+          "demo": "DNF",
           "team1": {
             "name": "Maihje Astralis",
-            "isWinner": true,
-            "score": 0
+            "isWinner": false,
+            "score": "DNF"
           },
           "team2": {
             "name": "Demo Demons",
-            "isWinner": false,
+            "isWinner": true,
             "score": 0
           }
         },
         {
+          "demo": "https://www.youtube.com/live/NCE5frpISGs?si=dpgawR6NrOvPiU7z&t=1908",
           "team1": {
             "name": "Bimba",
-            "isWinner": true,
-            "score": 0
+            "isWinner": false,
+            "score": 4
           },
           "team2": {
             "name": "Swift Spirit",
-            "isWinner": false,
-            "score": 0
+            "isWinner": true,
+            "score": 6
           }
         },
         {
@@ -597,15 +602,16 @@
           }
         },
         {
+          "demo": "https://www.youtube.com/live/NCE5frpISGs?si=9MnunUmaijhRQYjc&t=730",
           "team1": {
             "name": "Sho?",
             "isWinner": true,
-            "score": 0
+            "score": 3
           },
           "team2": {
             "name": "Dark Experience",
             "isWinner": false,
-            "score": 0
+            "score": 2
           }
         },
         {
