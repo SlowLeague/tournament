@@ -795,6 +795,10 @@ footer {
   color: red;
 }
 
+.result_q {
+  color: white;
+}
+
 .team-right-top {
   display: flex;
   gap: 5px;

@@ -1,4 +1,4 @@
-let activeTour = 3;
+let activeTour = 4;
 document.getElementById(`tourN-${activeTour}`).className = 'tour-button tour-active';
 function getRankImage(rank) {
   const rankImages = [
@@ -205,7 +205,7 @@ function renderGroupsList(groups) {
         const el = document.createElement('span');
         const matchResult = match.length === 1 ? match : match[0];
         el.innerText = match;
-        el.className = `result result_${matchResult}`;
+        el.className = `result result_${matchResult === '?' ? 'q' : matchResult}`;
         wrString.appendChild(el);
       });
 

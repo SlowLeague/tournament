@@ -430,39 +430,42 @@
       "tour": 3,
       "matches": [
         {
+          "demo": "https://www.youtube.com/live/fQRLFKHVh2A?si=io_pjemD3CI16qMb&t=2430",
           "team1": {
             "name": "Knapp Team",
             "isWinner": true,
-            "score": 0
+            "score": 2
           },
           "team2": {
             "name": "Podpivasy",
             "isWinner": false,
-            "score": 0
+            "score": 1
           }
         },
         {
+          "demo": "https://www.youtube.com/live/fQRLFKHVh2A?si=kt5xw9odkQN2V99X&t=987",
           "team1": {
             "name": "pay2win",
-            "isWinner": true,
-            "score": 0
+            "isWinner": false,
+            "score": 2
           },
           "team2": {
             "name": "BAKA",
-            "isWinner": false,
-            "score": 0
+            "isWinner": true,
+            "score": 3
           }
         },
         {
+          "demo": "https://www.youtube.com/live/fQRLFKHVh2A?si=WuP2jLvDOSnYwprR&t=4491",
           "team1": {
             "name": "UA SNUS",
             "isWinner": true,
-            "score": 0
+            "score": 3
           },
           "team2": {
             "name": "Twilight Trainers",
             "isWinner": false,
-            "score": 0
+            "score": 2
           }
         },
         {
@@ -479,15 +482,16 @@
           }
         },
         {
+          "demo": "https://www.youtube.com/live/fQRLFKHVh2A?si=pbRhXve9C_0vrbqK&t=5331",
           "team1": {
             "name": "Blazing Foxes",
-            "isWinner": true,
-            "score": 0
+            "isWinner": false,
+            "score": 2
           },
           "team2": {
             "name": "Dead Space",
-            "isWinner": false,
-            "score": 0
+            "isWinner": true,
+            "score": 3
           }
         },
         {
@@ -528,15 +532,16 @@
           }
         },
         {
+          "demo": "https://www.youtube.com/live/fQRLFKHVh2A?si=0-8k36Ubntn6VSHx&t=3790",
           "team1": {
             "name": "Di K0sak d3n",
             "isWinner": true,
-            "score": 0
+            "score": 5
           },
           "team2": {
             "name": "GodsInCars",
             "isWinner": false,
-            "score": 0
+            "score": 3
           }
         },
         {
@@ -566,27 +571,29 @@
           }
         },
         {
+          "demo": "https://www.youtube.com/live/fQRLFKHVh2A?si=eAlKk5Uz--iZbQan&t=1720",
           "team1": {
             "name": "SKUFS",
             "isWinner": true,
-            "score": 0
+            "score": 5
           },
           "team2": {
             "name": "OG UA",
             "isWinner": false,
-            "score": 0
+            "score": 3
           }
         },
         {
+          "demo": "https://www.youtube.com/live/fQRLFKHVh2A?si=RrDW9mKrpZNibG_C&t=325",
           "team1": {
             "name": "RL 1.6",
             "isWinner": true,
-            "score": 0
+            "score": 4
           },
           "team2": {
             "name": "Hortitsya",
             "isWinner": false,
-            "score": 0
+            "score": 2
           }
         },
         {
@@ -632,18 +639,20 @@
       "tour": 4,
       "matches": [
         {
+          "demo": "https://www.youtube.com/live/J4PFtrbN46E?si=MMKCEaD7zPo_hVo9&t=1875",
           "team1": {
             "name": "BAKA",
             "isWinner": true,
-            "score": 0
+            "score": 6
           },
           "team2": {
             "name": "Knapp Team",
             "isWinner": false,
-            "score": 0
+            "score": 4
           }
         },
         {
+          "demo": "DNF",
           "team1": {
             "name": "Podpivasy",
             "isWinner": true,
@@ -652,43 +661,46 @@
           "team2": {
             "name": "Twilight Trainers",
             "isWinner": false,
-            "score": 0
+            "score": "DNF"
           }
         },
         {
+          "demo": "https://www.youtube.com/live/J4PFtrbN46E?si=4xJ4ICj5cLNPL-jj&t=3562",
           "team1": {
             "name": "pay2win",
             "isWinner": true,
-            "score": 0
+            "score": 4
           },
           "team2": {
             "name": "Cocojambo",
             "isWinner": false,
-            "score": 0
+            "score": 1
           }
         },
         {
+          "demo": "https://www.youtube.com/live/J4PFtrbN46E?si=CT0xuQK995Mg3lRB&t=1272",
           "team1": {
             "name": "UA SNUS",
             "isWinner": true,
-            "score": 0
+            "score": 4
           },
           "team2": {
             "name": "fistingkings52",
             "isWinner": false,
-            "score": 0
+            "score": 2
           }
         },
         {
+          "demo": "https://www.youtube.com/live/J4PFtrbN46E?si=WF9sG1hKH0eWhPW8&t=2587",
           "team1": {
             "name": "Acrux",
             "isWinner": true,
-            "score": 0
+            "score": 5
           },
           "team2": {
             "name": "Blazing Foxes",
             "isWinner": false,
-            "score": 0
+            "score": 1
           }
         },
         {
@@ -704,14 +716,15 @@
           }
         },
         {
+          "demo": "DNF",
           "team1": {
             "name": "OPILLYA",
-            "isWinner": true,
-            "score": 0
+            "isWinner": false,
+            "score": "DNF"
           },
           "team2": {
             "name": "Motive",
-            "isWinner": false,
+            "isWinner": true,
             "score": 0
           }
         },
@@ -728,75 +741,81 @@
           }
         },
         {
+          "demo": "https://www.youtube.com/live/lNolMOqiQt4?si=11tZG6K59rkbPH0D&t=1782",
           "team1": {
             "name": "Demo Demons",
-            "isWinner": true,
-            "score": 0
+            "isWinner": false,
+            "score": 1
           },
           "team2": {
             "name": "Di K0sak d3n",
-            "isWinner": false,
-            "score": 0
+            "isWinner": true,
+            "score": 4
           }
         },
         {
+          "demo": "https://www.youtube.com/live/lNolMOqiQt4?si=XqOTrNjkbRbyuZwS&t=2394",
           "team1": {
             "name": "GodsInCars",
             "isWinner": true,
-            "score": 0
+            "score": 6
           },
           "team2": {
             "name": "Swift Spirit",
             "isWinner": false,
-            "score": 0
+            "score": 5
           }
         },
         {
+          "demo": "DNF",
           "team1": {
             "name": "Maihje Astralis",
-            "isWinner": true,
-            "score": 0
+            "isWinner": false,
+            "score": "DNF"
           },
           "team2": {
             "name": "OG UA",
-            "isWinner": false,
+            "isWinner": true,
             "score": 0
           }
         },
         {
+          "demo": "https://www.youtube.com/live/lNolMOqiQt4?si=f74knUZlQ_7iztY0&t=3399",
           "team1": {
             "name": "Bimba",
-            "isWinner": true,
-            "score": 0
+            "isWinner": false,
+            "score": 5
           },
           "team2": {
             "name": "SKUFS",
-            "isWinner": false,
-            "score": 0
+            "isWinner": true,
+            "score": 6
           }
         },
         {
+          "demo": "https://www.youtube.com/live/lNolMOqiQt4?si=GGFy5eWwHL_1i-yP&t=350",
           "team1": {
             "name": "AlcoBlooded",
             "isWinner": true,
-            "score": 0
+            "score": 4
           },
           "team2": {
             "name": "RL 1.6",
             "isWinner": false,
-            "score": 0
+            "score": 1
           }
         },
         {
+          "demo": "https://www.youtube.com/live/lNolMOqiQt4?si=sX38Ac5xfVBNELW7&t=1042",
           "team1": {
             "name": "Hortitsya",
-            "isWinner": true,
-            "score": 0
+            "isWinner": false,
+            "score": 2
           },
           "team2": {
             "name": "Dark Experience",
-            "isWinner": false,
-            "score": 0
+            "isWinner": true,
+            "score": 4
           }
         },
         {
