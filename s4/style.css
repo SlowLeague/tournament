@@ -1192,6 +1192,10 @@ footer {
     font-size: 8px;
   }
 
+  .team-logo {
+    width: 42px;
+    height: 42px;
+  }
   .match-team-logo {
     height: 42px;
     width: 42px;
