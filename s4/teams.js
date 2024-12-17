@@ -124,8 +124,6 @@ function renderGroupsList(groups) {
       teamLogo.className = 'team-logo';
       const teamLogoImg = document.createElement('img');
       teamLogoImg.src = team.logo;
-      teamLogoImg.width = 68;
-      teamLogoImg.height = 68;
       teamLogoImg.className = 'team-logo-image';
       teamLogo.appendChild(teamLogoImg);
 

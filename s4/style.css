@@ -710,6 +710,8 @@ footer {
 }
 .team-logo-image {
   border-radius: 10px;
+  width: 68px;
+  height: 68px;
 }
 .group-winner {
   box-shadow: inset gold 0px 0px 4px;
@@ -1201,6 +1203,10 @@ footer {
   .team-logo {
     width: 42px;
     height: 42px;
+  }
+  .team-logo-image {
+    height: 42px;
+    width: 42px;
   }
   .match-team-logo {
     height: 42px;
