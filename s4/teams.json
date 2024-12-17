@@ -289,7 +289,7 @@
           "name": "Di K0sak d3n",
           "logo": "assets/teams_logos/Di K0sak d3n.png",
           "points": 7,
-          "matches": "? ? W W L L",
+          "matches": "- ? ? W W L L",
           "players": [
             {
               "name": "Carmix-_-",
@@ -305,8 +305,8 @@
         {
           "name": "SKUFS",
           "logo": "assets/teams_logos/skufs.png",
-          "points": 14,
-          "matches": "W L W W W W",
+          "points": -1,
+          "matches": "- - - - - - -",
           "players": [
             {
               "name": "Tw-De_n4ik",
@@ -324,7 +324,7 @@
           "name": "OG UA",
           "logo": "assets/teams_logos/OG UA.png",
           "points": 3,
-          "matches": "? L W L L L",
+          "matches": "? L W - L L",
           "players": [
             {
               "name": "inc_ognito_0",
@@ -341,7 +341,7 @@
           "name": "Swift Spirit",
           "logo": "assets/teams_logos/Swift Spirit.png",
           "points": 6,
-          "matches": "L ? L W W L",
+          "matches": "- ? L W W L",
           "players": [
             {
               "name": "Gucci_Flop.",
@@ -358,7 +358,7 @@
           "name": "Demo Demons",
           "logo": "assets/teams_logos/Demo Demons.png",
           "points": 9,
-          "matches": "L W L W L W",
+          "matches": "L W L W - W",
           "players": [
             {
               "name": "OskarSir",
@@ -374,8 +374,8 @@
         {
           "name": "GodsInCars",
           "logo": "assets/teams_logos/GodsInCars.jpg",
-          "points": 12,
-          "matches": "W W W L L W",
+          "points": 9,
+          "matches": "W - W L L W",
           "players": [
             {
               "name": "O3ero0_0",
@@ -391,8 +391,8 @@
         {
           "name": "Maihje Astralis",
           "logo": "assets/teams_logos/Maihje Astralis.jpg",
-          "points": 3,
-          "matches": "L L L L W L",
+          "points": 2,
+          "matches": "L L L L W -",
           "players": [
             {
               "name": "PetruХa",
@@ -409,7 +409,7 @@
           "name": "Bimba",
           "logo": "assets/teams_logos/Bimba.png",
           "points": 12,
-          "matches": "W W L L W W",
+          "matches": "W W - L W W",
           "players": [
             {
               "name": "K0bzar_",

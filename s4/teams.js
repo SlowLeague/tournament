@@ -205,7 +205,7 @@ function renderGroupsList(groups) {
         const el = document.createElement('span');
         const matchResult = match.length === 1 ? match : match[0];
         el.innerText = match;
-        el.className = `result result_${matchResult === '?' ? 'q' : matchResult}`;
+        el.className = `result result_${matchResult === '?' || matchResult === '-' ? 'q' : matchResult}`;
         wrString.appendChild(el);
       });
 
