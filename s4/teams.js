@@ -175,7 +175,10 @@ function renderGroupsList(groups) {
       teamRight.className = 'team-right-top';
       const teamPoints = document.createElement('div');
       teamPoints.className = 'team-points';
-      teamPoints.textContent = team.points;
+      teamPoints.textContent = team.points === -1 ? 'ban' : team.points;
+      if (team.points === -1) {
+        teamPoints.className += ' ban';
+      }
       const isTop2 = index < 2;
       const isLowerBracket = index < 6 && index > 1;
       const teamIconCup = document.createElement('div');

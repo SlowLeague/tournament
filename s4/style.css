@@ -818,6 +818,12 @@ footer {
   height: 17px;
   width: 45px;
 }
+
+.ban {
+  color: red;
+  text-transform: uppercase;
+}
+
 .team-icon-cup {
   background: #1f1f1f;
   transform: skew(-10deg, 0deg);
