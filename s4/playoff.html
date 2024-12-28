@@ -1,0 +1,1170 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/x-icon" href="../favicon.ico" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="playoff.css" />
+    <script src="https://unpkg.com/@popperjs/core@2"></script>
+    <script src="https://unpkg.com/tippy.js@6"></script>
+    <link rel="stylesheet" href="https://unpkg.com/accordion-js@3.3.4/dist/accordion.min.css" />
+    <script src="https://unpkg.com/accordion-js@3.3.4/dist/accordion.min.js"></script>
+    <title>Slow League PANAKARMANA</title>
+  </head>
+
+  <body>
+    <div class="running ticker-wrapper">
+      <div class="ticker-wrapper__first-half">
+        <img src="./assets/dominus.png" />
+        <p class="top-donater">
+          Топ донатер: Dr_Whlte_UA (1070 грн)
+          <a target="_blank" href="https://www.twitch.tv/drwhlteua" class="img-twitch" style="display: block"></a>
+          <a target="_blank" href="https://www.youtube.com/@dr_whlte_ua" class="img-YT" style="display: block"></a>
+        </p>
+        <img src="./assets/dominus.png" />
+        <p class="top-donater">
+          Топ донатер: Skeenny_ (1751 грн)
+          <a target="_blank" href="https://www.twitch.tv/skeenny_" class="img-twitch" style="display: block"></a>
+        </p>
+      </div>
+      <div class="ticker-wrapper__second-half">
+        <img src="./assets/dominus.png" />
+        <p class="top-donater">Тут може бути ваше повідомлення :)</p>
+        <img src="./assets/dominus.png" />
+        <p class="top-donater">
+          Топ донатер: K0bzar_ (565 грн)
+          <a target="_blank" href="https://www.twitch.tv/K0bzar_" class="img-twitch" style="display: block"></a>
+          <a target="_blank" href="https://www.youtube.com/@Kobzar69420" class="img-YT" style="display: block"></a>
+        </p>
+      </div>
+    </div>
+    <div class="header">
+      <div class="header-left">
+        <div class="logo">
+          <a href="index.html">
+            <img src="assets/SL.svg" />
+          </a>
+        </div>
+        <div class="name">
+          <span class="t-name">SLOW LEAGUE</span>
+          <div class="s-name kek">
+            <span class="not-skewed">SEASON 4</span>
+          </div>
+        </div>
+        <div class="creator-name">PANAKARMANA</div>
+        <div class="left-menu_header">
+          <a href="index.html"
+            ><div class="menu-box"><div class="img-squares" id="img-squares"></div></div
+          ></a>
+          <a href="teams.html"
+            ><div class="menu-box"><div class="img-teams" id="img-teams"></div></div
+          ></a>
+          <a href="playoff.html"
+            ><div class="menu-box"><div class="img-cup" id="img-cup"></div></div
+          ></a>
+          <a href="info.html"
+            ><div class="menu-box"><div class="img-info" id="img-info"></div></div
+          ></a>
+        </div>
+      </div>
+    </div>
+
+    <div class="main-wrapper">
+      <div class="left-menu">
+        <div class="left-menu_top">
+          <a href="index.html" data-tippy-content="Список гравців" class="with-tooltip"
+            ><div class="menu-box"><div class="img-squares" id="img-squares-left"></div></div
+          ></a>
+          <a href="teams.html" data-tippy-content="Груповий етап" class="with-tooltip"
+            ><div class="menu-box"><div class="img-teams" id="img-teams-left"></div></div
+          ></a>
+          <a href="playoff.html" data-tippy-content="Сітка Playoff" class="with-tooltip"
+            ><div class="menu-box"><div class="img-cup" id="img-cup-left"></div></div
+          ></a>
+          <a href="info.html" data-tippy-content="FAQ" class="with-tooltip"
+            ><div class="menu-box"><div class="img-info" id="img-info-left"></div></div
+          ></a>
+        </div>
+      </div>
+      <div class="main-info-content accordion-container">
+        <span class="info-header"> PLAYOFF </span>
+        <div class="i-group-ac ac">
+          <h2 class="ac-header">
+            <button type="button" class="ac-trigger">
+              <span class="i-group-name"> Пояснення сітки плейофф </span>
+            </button>
+          </h2>
+
+          <div class="ac-panel">
+            <p class="ac-text">
+              <span class="i-group-info">
+                Ця турнірна сітка використовує Double Elimination (подвійне вибування), де кожна команда, що вийшла у
+                верхню сітку має дві можливості продовжити участь у турнірі: одну в верхній сітці (переможців) і одну в
+                нижній сітці (програвших). Пояснимо докладніше:
+                <br />
+                <br />
+                <strong>Верхня та нижня сітки:</strong>
+                <br />
+                Усі команди стартують в верхній чи ніжній сітці, в залежності від їх місця у групі.<br />
+                Переможці просуваються до наступних раундів.<br />
+                Команди з верхньої сітки, які програли, переходять до відповідного раунду нижньої сітки.<br />
+                <br />
+                <strong>Нижня сітка для програвших:</strong><br />
+                Програвши у верхній сітці, команда потрапляє до нижньої, де отримує другий шанс продовжити боротьбу.<br />
+                Якщо команда програє в нижній сітці, вона вибуває з турніру.<br />
+                <br />
+                <strong>Півфінали і фінали:</strong><br />
+                Відбір триває до того, як визначаться переможці в обох сітках:<br />
+                Переможець верхньої сітки виходить до гранд-фіналу напряму.<br />
+                Переможець нижньої сітки спочатку має зіграти у фіналі нижньої сітки, щоб потрапити до гранд-фіналу.<br />
+                <br />
+                <strong>Гранд-фінал:</strong><br />
+                У гранд-фіналі зустрічаються переможець верхньої сітки та переможець нижньої.<br />
+                <br />
+                Раунд 1 - Раунд 4 = Best of 1<br />
+                1/4 фіналу - 1/2 = Best of 3<br />
+                Фінал і Гранд Фінал = Best of 5 <br />
+              </span>
+              <img src="./assets/schematics.jpg" alt="" style="max-width: 100%" /> <br />
+            </p>
+          </div>
+        </div>
+        <div class="tour-tabs" id="tour-tabs">
+          <button class="tour-button tour-active" id="btn-lower_bracket">Нижня сітка</button>
+          <button class="tour-button" id="btn-upper_bracket">Верхня сітка</button>
+          <button class="tour-button" id="btn-final">Фінал</button>
+        </div>
+        <div class="tournament-container">
+          <div class="scroll-container">
+            <div class="tournament-brackets upper_bracket disabled">
+              <ul class="bracket bracket-1">
+                <!-- ВСР1М1 -->
+                <li class="team-item">
+                  <div class="p-match">
+                    <div class="p-teams">
+                      <div class="p-team">
+                        <div class="p-team-logo">
+                          <img src="assets/teams_logos/default_logo.png" width="38" height="38" />
+                        </div>
+                        <span class="p-team-name">TBD</span>
+                      </div>
+                      <div class="p-team">
+                        <div class="p-team-logo">
+                          <img src="assets/teams_logos/default_logo.png" width="38" height="38" />
+                        </div>
+                        <span class="p-team-name">TBD</span>
+                      </div>
+                      <div class="p-vs-block">
+                        <div class="p-vs">VS</div>
+                      </div>
+                    </div>
+
+                    <div class="p-scores">
+                      <div class="p-match-result">
+                        <div class="p-match-result">0</div>
+                        <div class="p-match-result">0</div>
+                      </div>
+                      <div class="p-match-result">
+                        <div class="p-match-result">0</div>
+                        <div class="p-match-result">0</div>
+                      </div>
+                      <div class="p-match-result">
+                        <div class="p-match-result">0</div>
+                        <div class="p-match-result">0</div>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+                <!-- ВСР1М2 -->
+                <li class="team-item">
+                  <div class="p-match">
+                    <div class="p-teams">
+                      <div class="p-team">
+                        <div class="p-team-logo">
+                          <img src="assets/teams_logos/default_logo.png" width="38" height="38" />
+                        </div>
+                        <span class="p-team-name">TBD</span>
+                      </div>
+                      <div class="p-team">
+                        <div class="p-team-logo">
+                          <img src="assets/teams_logos/default_logo.png" width="38" height="38" />
+                        </div>
+                        <span class="p-team-name">TBD</span>
+                      </div>
+                      <div class="p-vs-block">
+                        <div class="p-vs">VS</div>
+                      </div>
+                    </div>
+
+                    <div class="p-scores">
+                      <div class="p-match-result">
+                        <div class="p-match-result">0</div>
+                        <div class="p-match-result">0</div>
+                      </div>
+                      <div class="p-match-result">
+                        <div class="p-match-result">0</div>
+                        <div class="p-match-result">0</div>
+                      </div>
+                      <div class="p-match-result">
+                        <div class="p-match-result">0</div>
+                        <div class="p-match-result">0</div>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+                <!-- ВСР1М3 -->
+                <li class="team-item">
+                  <div class="p-match">
+                    <div class="p-teams">
+                      <div class="p-team">
+                        <div class="p-team-logo">
+                          <img src="assets/teams_logos/default_logo.png" width="38" height="38" />
+                        </div>
+                        <span class="p-team-name">TBD</span>
+                      </div>
+                      <div class="p-team">
+                        <div class="p-team-logo">
+                          <img src="assets/teams_logos/default_logo.png" width="38" height="38" />
+                        </div>
+                        <span class="p-team-name">TBD</span>
+                      </div>
+                      <div class="p-vs-block">
+                        <div class="p-vs">VS</div>
+                      </div>
+                    </div>
+
+                    <div class="p-scores">
+                      <div class="p-match-result">
+                        <div class="p-match-result">0</div>
+                        <div class="p-match-result">0</div>
+                      </div>
+                      <div class="p-match-result">
+                        <div class="p-match-result">0</div>
+                        <div class="p-match-result">0</div>
+                      </div>
+                      <div class="p-match-result">
+                        <div class="p-match-result">0</div>
+                        <div class="p-match-result">0</div>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+                <!-- ВСР1М4 -->
+                <li class="team-item">
+                  <div class="p-match">
+                    <div class="p-teams">
+                      <div class="p-team">
+                        <div class="p-team-logo">
+                          <img src="assets/teams_logos/default_logo.png" width="38" height="38" />
+                        </div>
+                        <span class="p-team-name">TBD</span>
+                      </div>
+                      <div class="p-team">
+                        <div class="p-team-logo">
+                          <img src="assets/teams_logos/default_logo.png" width="38" height="38" />
+                        </div>
+                        <span class="p-team-name">TBD</span>
+                      </div>
+                      <div class="p-vs-block">
+                        <div class="p-vs">VS</div>
+                      </div>
+                    </div>
+
+                    <div class="p-scores">
+                      <div class="p-match-result">
+                        <div class="p-match-result">0</div>
+                        <div class="p-match-result">0</div>
+                      </div>
+                      <div class="p-match-result">
+                        <div class="p-match-result">0</div>
+                        <div class="p-match-result">0</div>
+                      </div>
+                      <div class="p-match-result">
+                        <div class="p-match-result">0</div>
+                        <div class="p-match-result">0</div>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+              </ul>
+              <ul class="bracket bracket-2">
+                <!-- ВСР2М1 -->
+                <li class="team-item">
+                  <div class="p-match">
+                    <div class="p-teams">
+                      <div class="p-team">
+                        <div class="p-team-logo">
+                          <img src="assets/teams_logos/default_logo.png" width="38" height="38" />
+                        </div>
+                        <span class="p-team-name">TBD</span>
+                      </div>
+                      <div class="p-team">
+                        <div class="p-team-logo">
+                          <img src="assets/teams_logos/default_logo.png" width="38" height="38" />
+                        </div>
+                        <span class="p-team-name">TBD</span>
+                      </div>
+                      <div class="p-vs-block">
+                        <div class="p-vs">VS</div>
+                      </div>
+                    </div>
+
+                    <div class="p-scores">
+                      <div class="p-match-result">
+                        <div class="p-match-result">0</div>
+                        <div class="p-match-result">0</div>
+                      </div>
+                      <div class="p-match-result">
+                        <div class="p-match-result">0</div>
+                        <div class="p-match-result">0</div>
+                      </div>
+                      <div class="p-match-result">
+                        <div class="p-match-result">0</div>
+                        <div class="p-match-result">0</div>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+                <!-- ВСР2М2 -->
+                <li class="team-item">
+                  <div class="p-match">
+                    <div class="p-teams">
+                      <div class="p-team">
+                        <div class="p-team-logo">
+                          <img src="assets/teams_logos/default_logo.png" width="38" height="38" />
+                        </div>
+                        <span class="p-team-name">TBD</span>
+                      </div>
+                      <div class="p-team">
+                        <div class="p-team-logo">
+                          <img src="assets/teams_logos/default_logo.png" width="38" height="38" />
+                        </div>
+                        <span class="p-team-name">TBD</span>
+                      </div>
+                      <div class="p-vs-block">
+                        <div class="p-vs">VS</div>
+                      </div>
+                    </div>
+
+                    <div class="p-scores">
+                      <div class="p-match-result">
+                        <div class="p-match-result">0</div>
+                        <div class="p-match-result">0</div>
+                      </div>
+                      <div class="p-match-result">
+                        <div class="p-match-result">0</div>
+                        <div class="p-match-result">0</div>
+                      </div>
+                      <div class="p-match-result">
+                        <div class="p-match-result">0</div>
+                        <div class="p-match-result">0</div>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+              </ul>
+              <ul class="bracket bracket-3">
+                <!-- ВСР3М1 -->
+                <li class="team-item">
+                  <div class="p-match">
+                    <div class="p-teams">
+                      <div class="p-team">
+                        <div class="p-team-logo">
+                          <img src="assets/teams_logos/default_logo.png" width="38" height="38" />
+                        </div>
+                        <span class="p-team-name">TBD</span>
+                      </div>
+                      <div class="p-team">
+                        <div class="p-team-logo">
+                          <img src="assets/teams_logos/default_logo.png" width="38" height="38" />
+                        </div>
+                        <span class="p-team-name">TBD</span>
+                      </div>
+                      <div class="p-vs-block">
+                        <div class="p-vs">VS</div>
+                      </div>
+                    </div>
+
+                    <div class="p-scores">
+                      <div class="p-match-result">
+                        <div class="p-match-result">0</div>
+                        <div class="p-match-result">0</div>
+                      </div>
+                      <div class="p-match-result">
+                        <div class="p-match-result">0</div>
+                        <div class="p-match-result">0</div>
+                      </div>
+                      <div class="p-match-result">
+                        <div class="p-match-result">0</div>
+                        <div class="p-match-result">0</div>
+                      </div>
+                      <div class="p-match-result">
+                        <div class="p-match-result">0</div>
+                        <div class="p-match-result">0</div>
+                      </div>
+                      <div class="p-match-result">
+                        <div class="p-match-result">0</div>
+                        <div class="p-match-result">0</div>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+              </ul>
+            </div>
+
+            <div class="tournament-brackets lower_bracket">
+              <ul class="bracket bracket-1">
+                <!-- НСР1М1 -->
+                <li class="team-item">
+                  <div class="p-match">
+                    <div class="p-teams">
+                      <div class="p-team">
+                        <div class="p-team-logo">
+                          <img src="assets/teams_logos/default_logo.png" width="38" height="38" />
+                        </div>
+                        <span class="p-team-name">TBD</span>
+                      </div>
+                      <div class="p-team">
+                        <div class="p-team-logo">
+                          <img src="assets/teams_logos/default_logo.png" width="38" height="38" />
+                        </div>
+                        <span class="p-team-name">TBD</span>
+                      </div>
+                      <div class="p-vs-block">
+                        <div class="p-vs">VS</div>
+                      </div>
+                    </div>
+
+                    <div class="p-scores">
+                      <div class="p-match-result">
+                        <div class="p-match-result">0</div>
+                        <div class="p-match-result">0</div>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+                <!-- НСР1М2 -->
+                <li class="team-item">
+                  <div class="p-match">
+                    <div class="p-teams">
+                      <div class="p-team">
+                        <div class="p-team-logo">
+                          <img src="assets/teams_logos/default_logo.png" width="38" height="38" />
+                        </div>
+                        <span class="p-team-name">TBD</span>
+                      </div>
+                      <div class="p-team">
+                        <div class="p-team-logo">
+                          <img src="assets/teams_logos/default_logo.png" width="38" height="38" />
+                        </div>
+                        <span class="p-team-name">TBD</span>
+                      </div>
+                      <div class="p-vs-block">
+                        <div class="p-vs">VS</div>
+                      </div>
+                    </div>
+
+                    <div class="p-scores">
+                      <div class="p-match-result">
+                        <div class="p-match-result">0</div>
+                        <div class="p-match-result">0</div>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+                <!-- НСР1М3 -->
+                <li class="team-item">
+                  <div class="p-match">
+                    <div class="p-teams">
+                      <div class="p-team">
+                        <div class="p-team-logo">
+                          <img src="assets/teams_logos/default_logo.png" width="38" height="38" />
+                        </div>
+                        <span class="p-team-name">TBD</span>
+                      </div>
+                      <div class="p-team">
+                        <div class="p-team-logo">
+                          <img src="assets/teams_logos/default_logo.png" width="38" height="38" />
+                        </div>
+                        <span class="p-team-name">TBD</span>
+                      </div>
+                      <div class="p-vs-block">
+                        <div class="p-vs">VS</div>
+                      </div>
+                    </div>
+
+                    <div class="p-scores">
+                      <div class="p-match-result">
+                        <div class="p-match-result">0</div>
+                        <div class="p-match-result">0</div>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+                <!-- НСР1М4 -->
+                <li class="team-item">
+                  <div class="p-match">
+                    <div class="p-teams">
+                      <div class="p-team">
+                        <div class="p-team-logo">
+                          <img src="assets/teams_logos/default_logo.png" width="38" height="38" />
+                        </div>
+                        <span class="p-team-name">TBD</span>
+                      </div>
+                      <div class="p-team">
+                        <div class="p-team-logo">
+                          <img src="assets/teams_logos/default_logo.png" width="38" height="38" />
+                        </div>
+                        <span class="p-team-name">TBD</span>
+                      </div>
+                      <div class="p-vs-block">
+                        <div class="p-vs">VS</div>
+                      </div>
+                    </div>
+
+                    <div class="p-scores">
+                      <div class="p-match-result">
+                        <div class="p-match-result">0</div>
+                        <div class="p-match-result">0</div>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+                <!-- НСР1М5 -->
+                <li class="team-item">
+                  <div class="p-match">
+                    <div class="p-teams">
+                      <div class="p-team">
+                        <div class="p-team-logo">
+                          <img src="assets/teams_logos/default_logo.png" width="38" height="38" />
+                        </div>
+                        <span class="p-team-name">TBD</span>
+                      </div>
+                      <div class="p-team">
+                        <div class="p-team-logo">
+                          <img src="assets/teams_logos/default_logo.png" width="38" height="38" />
+                        </div>
+                        <span class="p-team-name">TBD</span>
+                      </div>
+                      <div class="p-vs-block">
+                        <div class="p-vs">VS</div>
+                      </div>
+                    </div>
+
+                    <div class="p-scores">
+                      <div class="p-match-result">
+                        <div class="p-match-result">0</div>
+                        <div class="p-match-result">0</div>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+                <!-- НСР1М6 -->
+                <li class="team-item">
+                  <div class="p-match">
+                    <div class="p-teams">
+                      <div class="p-team">
+                        <div class="p-team-logo">
+                          <img src="assets/teams_logos/default_logo.png" width="38" height="38" />
+                        </div>
+                        <span class="p-team-name">TBD</span>
+                      </div>
+                      <div class="p-team">
+                        <div class="p-team-logo">
+                          <img src="assets/teams_logos/default_logo.png" width="38" height="38" />
+                        </div>
+                        <span class="p-team-name">TBD</span>
+                      </div>
+                      <div class="p-vs-block">
+                        <div class="p-vs">VS</div>
+                      </div>
+                    </div>
+
+                    <div class="p-scores">
+                      <div class="p-match-result">
+                        <div class="p-match-result">0</div>
+                        <div class="p-match-result">0</div>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+                <!-- НСР1М7 -->
+                <li class="team-item">
+                  <div class="p-match">
+                    <div class="p-teams">
+                      <div class="p-team">
+                        <div class="p-team-logo">
+                          <img src="assets/teams_logos/default_logo.png" width="38" height="38" />
+                        </div>
+                        <span class="p-team-name">TBD</span>
+                      </div>
+                      <div class="p-team">
+                        <div class="p-team-logo">
+                          <img src="assets/teams_logos/default_logo.png" width="38" height="38" />
+                        </div>
+                        <span class="p-team-name">TBD</span>
+                      </div>
+                      <div class="p-vs-block">
+                        <div class="p-vs">VS</div>
+                      </div>
+                    </div>
+
+                    <div class="p-scores">
+                      <div class="p-match-result">
+                        <div class="p-match-result">0</div>
+                        <div class="p-match-result">0</div>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+                <!-- НСР1М8 -->
+                <li class="team-item">
+                  <div class="p-match">
+                    <div class="p-teams">
+                      <div class="p-team">
+                        <div class="p-team-logo">
+                          <img src="assets/teams_logos/default_logo.png" width="38" height="38" />
+                        </div>
+                        <span class="p-team-name">TBD</span>
+                      </div>
+                      <div class="p-team">
+                        <div class="p-team-logo">
+                          <img src="assets/teams_logos/default_logo.png" width="38" height="38" />
+                        </div>
+                        <span class="p-team-name">TBD</span>
+                      </div>
+                      <div class="p-vs-block">
+                        <div class="p-vs">VS</div>
+                      </div>
+                    </div>
+
+                    <div class="p-scores">
+                      <div class="p-match-result">
+                        <div class="p-match-result">0</div>
+                        <div class="p-match-result">0</div>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+              </ul>
+              <ul class="bracket bracket-1">
+                <!-- НСР2М1 -->
+                <li class="team-item">
+                  <div class="p-match">
+                    <div class="p-teams">
+                      <div class="p-team">
+                        <div class="p-team-logo">
+                          <img src="assets/teams_logos/default_logo.png" width="38" height="38" />
+                        </div>
+                        <span class="p-team-name">TBD</span>
+                      </div>
+                      <div class="p-team">
+                        <div class="p-team-logo">
+                          <img src="assets/teams_logos/default_logo.png" width="38" height="38" />
+                        </div>
+                        <span class="p-team-name">TBD</span>
+                      </div>
+                      <div class="p-vs-block">
+                        <div class="p-vs">VS</div>
+                      </div>
+                    </div>
+
+                    <div class="p-scores">
+                      <div class="p-match-result">
+                        <div class="p-match-result">0</div>
+                        <div class="p-match-result">0</div>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+                <!-- НСР2М2 -->
+                <li class="team-item">
+                  <div class="p-match">
+                    <div class="p-teams">
+                      <div class="p-team">
+                        <div class="p-team-logo">
+                          <img src="assets/teams_logos/default_logo.png" width="38" height="38" />
+                        </div>
+                        <span class="p-team-name">TBD</span>
+                      </div>
+                      <div class="p-team">
+                        <div class="p-team-logo">
+                          <img src="assets/teams_logos/default_logo.png" width="38" height="38" />
+                        </div>
+                        <span class="p-team-name">TBD</span>
+                      </div>
+                      <div class="p-vs-block">
+                        <div class="p-vs">VS</div>
+                      </div>
+                    </div>
+
+                    <div class="p-scores">
+                      <div class="p-match-result">
+                        <div class="p-match-result">0</div>
+                        <div class="p-match-result">0</div>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+                <!-- НСР2М3 -->
+                <li class="team-item">
+                  <div class="p-match">
+                    <div class="p-teams">
+                      <div class="p-team">
+                        <div class="p-team-logo">
+                          <img src="assets/teams_logos/default_logo.png" width="38" height="38" />
+                        </div>
+                        <span class="p-team-name">TBD</span>
+                      </div>
+                      <div class="p-team">
+                        <div class="p-team-logo">
+                          <img src="assets/teams_logos/default_logo.png" width="38" height="38" />
+                        </div>
+                        <span class="p-team-name">TBD</span>
+                      </div>
+                      <div class="p-vs-block">
+                        <div class="p-vs">VS</div>
+                      </div>
+                    </div>
+
+                    <div class="p-scores">
+                      <div class="p-match-result">
+                        <div class="p-match-result">0</div>
+                        <div class="p-match-result">0</div>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+                <!-- НСР2М4 -->
+                <li class="team-item">
+                  <div class="p-match">
+                    <div class="p-teams">
+                      <div class="p-team">
+                        <div class="p-team-logo">
+                          <img src="assets/teams_logos/default_logo.png" width="38" height="38" />
+                        </div>
+                        <span class="p-team-name">TBD</span>
+                      </div>
+                      <div class="p-team">
+                        <div class="p-team-logo">
+                          <img src="assets/teams_logos/default_logo.png" width="38" height="38" />
+                        </div>
+                        <span class="p-team-name">TBD</span>
+                      </div>
+                      <div class="p-vs-block">
+                        <div class="p-vs">VS</div>
+                      </div>
+                    </div>
+
+                    <div class="p-scores">
+                      <div class="p-match-result">
+                        <div class="p-match-result">0</div>
+                        <div class="p-match-result">0</div>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+              </ul>
+              <ul class="bracket bracket-1">
+                <!-- НСР3М1 -->
+                <li class="team-item">
+                  <div class="p-match">
+                    <div class="p-teams">
+                      <div class="p-team">
+                        <div class="p-team-logo">
+                          <img src="assets/teams_logos/default_logo.png" width="38" height="38" />
+                        </div>
+                        <span class="p-team-name">TBD</span>
+                      </div>
+                      <div class="p-team">
+                        <div class="p-team-logo">
+                          <img src="assets/teams_logos/default_logo.png" width="38" height="38" />
+                        </div>
+                        <span class="p-team-name">TBD</span>
+                      </div>
+                      <div class="p-vs-block">
+                        <div class="p-vs">VS</div>
+                      </div>
+                    </div>
+
+                    <div class="p-scores">
+                      <div class="p-match-result">
+                        <div class="p-match-result">0</div>
+                        <div class="p-match-result">0</div>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+                <!-- НСР3М2 -->
+                <li class="team-item">
+                  <div class="p-match">
+                    <div class="p-teams">
+                      <div class="p-team">
+                        <div class="p-team-logo">
+                          <img src="assets/teams_logos/default_logo.png" width="38" height="38" />
+                        </div>
+                        <span class="p-team-name">TBD</span>
+                      </div>
+                      <div class="p-team">
+                        <div class="p-team-logo">
+                          <img src="assets/teams_logos/default_logo.png" width="38" height="38" />
+                        </div>
+                        <span class="p-team-name">TBD</span>
+                      </div>
+                      <div class="p-vs-block">
+                        <div class="p-vs">VS</div>
+                      </div>
+                    </div>
+
+                    <div class="p-scores">
+                      <div class="p-match-result">
+                        <div class="p-match-result">0</div>
+                        <div class="p-match-result">0</div>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+                <!-- НСР3М3 -->
+                <li class="team-item">
+                  <div class="p-match">
+                    <div class="p-teams">
+                      <div class="p-team">
+                        <div class="p-team-logo">
+                          <img src="assets/teams_logos/default_logo.png" width="38" height="38" />
+                        </div>
+                        <span class="p-team-name">TBD</span>
+                      </div>
+                      <div class="p-team">
+                        <div class="p-team-logo">
+                          <img src="assets/teams_logos/default_logo.png" width="38" height="38" />
+                        </div>
+                        <span class="p-team-name">TBD</span>
+                      </div>
+                      <div class="p-vs-block">
+                        <div class="p-vs">VS</div>
+                      </div>
+                    </div>
+
+                    <div class="p-scores">
+                      <div class="p-match-result">
+                        <div class="p-match-result">0</div>
+                        <div class="p-match-result">0</div>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+                <!-- НСР3М4 -->
+                <li class="team-item">
+                  <div class="p-match">
+                    <div class="p-teams">
+                      <div class="p-team">
+                        <div class="p-team-logo">
+                          <img src="assets/teams_logos/default_logo.png" width="38" height="38" />
+                        </div>
+                        <span class="p-team-name">TBD</span>
+                      </div>
+                      <div class="p-team">
+                        <div class="p-team-logo">
+                          <img src="assets/teams_logos/default_logo.png" width="38" height="38" />
+                        </div>
+                        <span class="p-team-name">TBD</span>
+                      </div>
+                      <div class="p-vs-block">
+                        <div class="p-vs">VS</div>
+                      </div>
+                    </div>
+
+                    <div class="p-scores">
+                      <div class="p-match-result">
+                        <div class="p-match-result">0</div>
+                        <div class="p-match-result">0</div>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+              </ul>
+              <ul class="bracket bracket-2">
+                <!-- НСР4М1 -->
+                <li class="team-item">
+                  <div class="p-match">
+                    <div class="p-teams">
+                      <div class="p-team">
+                        <div class="p-team-logo">
+                          <img src="assets/teams_logos/default_logo.png" width="38" height="38" />
+                        </div>
+                        <span class="p-team-name">TBD</span>
+                      </div>
+                      <div class="p-team">
+                        <div class="p-team-logo">
+                          <img src="assets/teams_logos/default_logo.png" width="38" height="38" />
+                        </div>
+                        <span class="p-team-name">TBD</span>
+                      </div>
+                      <div class="p-vs-block">
+                        <div class="p-vs">VS</div>
+                      </div>
+                    </div>
+
+                    <div class="p-scores">
+                      <div class="p-match-result">
+                        <div class="p-match-result">0</div>
+                        <div class="p-match-result">0</div>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+                <!-- НСР4М2 -->
+                <li class="team-item">
+                  <div class="p-match">
+                    <div class="p-teams">
+                      <div class="p-team">
+                        <div class="p-team-logo">
+                          <img src="assets/teams_logos/default_logo.png" width="38" height="38" />
+                        </div>
+                        <span class="p-team-name">TBD</span>
+                      </div>
+                      <div class="p-team">
+                        <div class="p-team-logo">
+                          <img src="assets/teams_logos/default_logo.png" width="38" height="38" />
+                        </div>
+                        <span class="p-team-name">TBD</span>
+                      </div>
+                      <div class="p-vs-block">
+                        <div class="p-vs">VS</div>
+                      </div>
+                    </div>
+
+                    <div class="p-scores">
+                      <div class="p-match-result">
+                        <div class="p-match-result">0</div>
+                        <div class="p-match-result">0</div>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+              </ul>
+              <ul class="bracket bracket-2">
+                <!-- НСР5М1 -->
+                <li class="team-item">
+                  <div class="p-match">
+                    <div class="p-teams">
+                      <div class="p-team">
+                        <div class="p-team-logo">
+                          <img src="assets/teams_logos/default_logo.png" width="38" height="38" />
+                        </div>
+                        <span class="p-team-name">TBD</span>
+                      </div>
+                      <div class="p-team">
+                        <div class="p-team-logo">
+                          <img src="assets/teams_logos/default_logo.png" width="38" height="38" />
+                        </div>
+                        <span class="p-team-name">TBD</span>
+                      </div>
+                      <div class="p-vs-block">
+                        <div class="p-vs">VS</div>
+                      </div>
+                    </div>
+
+                    <div class="p-scores">
+                      <div class="p-match-result">
+                        <div class="p-match-result">0</div>
+
+                        <div class="p-match-result">0</div>
+                      </div>
+                      <div class="p-match-result">
+                        <div class="p-match-result">0</div>
+                        <div class="p-match-result">0</div>
+                      </div>
+                      <div class="p-match-result">
+                        <div class="p-match-result">0</div>
+                        <div class="p-match-result">0</div>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+                <!-- НСР5М2 -->
+                <li class="team-item">
+                  <div class="p-match">
+                    <div class="p-teams">
+                      <div class="p-team">
+                        <div class="p-team-logo">
+                          <img src="assets/teams_logos/default_logo.png" width="38" height="38" />
+                        </div>
+                        <span class="p-team-name">TBD</span>
+                      </div>
+                      <div class="p-team">
+                        <div class="p-team-logo">
+                          <img src="assets/teams_logos/default_logo.png" width="38" height="38" />
+                        </div>
+                        <span class="p-team-name">TBD</span>
+                      </div>
+                      <div class="p-vs-block">
+                        <div class="p-vs">VS</div>
+                      </div>
+                    </div>
+
+                    <div class="p-scores">
+                      <div class="p-match-result">
+                        <div class="p-match-result">0</div>
+
+                        <div class="p-match-result">0</div>
+                      </div>
+                      <div class="p-match-result">
+                        <div class="p-match-result">0</div>
+                        <div class="p-match-result">0</div>
+                      </div>
+                      <div class="p-match-result">
+                        <div class="p-match-result">0</div>
+                        <div class="p-match-result">0</div>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+              </ul>
+              <ul class="bracket bracket-3">
+                <!-- НСР6М1 -->
+                <li class="team-item">
+                  <div class="p-match">
+                    <div class="p-teams">
+                      <div class="p-team">
+                        <div class="p-team-logo">
+                          <img src="assets/teams_logos/default_logo.png" width="38" height="38" />
+                        </div>
+                        <span class="p-team-name">TBD</span>
+                      </div>
+                      <div class="p-team">
+                        <div class="p-team-logo">
+                          <img src="assets/teams_logos/default_logo.png" width="38" height="38" />
+                        </div>
+                        <span class="p-team-name">TBD</span>
+                      </div>
+                      <div class="p-vs-block">
+                        <div class="p-vs">VS</div>
+                      </div>
+                    </div>
+
+                    <div class="p-scores">
+                      <div class="p-match-result">
+                        <div class="p-match-result">0</div>
+
+                        <div class="p-match-result">0</div>
+                      </div>
+                      <div class="p-match-result">
+                        <div class="p-match-result">0</div>
+                        <div class="p-match-result">0</div>
+                      </div>
+                      <div class="p-match-result">
+                        <div class="p-match-result">0</div>
+                        <div class="p-match-result">0</div>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+              </ul>
+              <ul class="bracket bracket-3">
+                <!-- НСР7М1 -->
+                <li class="team-item">
+                  <div class="p-match">
+                    <div class="p-teams">
+                      <div class="p-team">
+                        <div class="p-team-logo">
+                          <img src="assets/teams_logos/default_logo.png" width="38" height="38" />
+                        </div>
+                        <span class="p-team-name">TBD</span>
+                      </div>
+                      <div class="p-team">
+                        <div class="p-team-logo">
+                          <img src="assets/teams_logos/default_logo.png" width="38" height="38" />
+                        </div>
+                        <span class="p-team-name">TBD</span>
+                      </div>
+                      <div class="p-vs-block">
+                        <div class="p-vs">VS</div>
+                      </div>
+                    </div>
+
+                    <div class="p-scores">
+                      <div class="p-match-result">
+                        <div class="p-match-result">0</div>
+                        <div class="p-match-result">0</div>
+                      </div>
+                      <div class="p-match-result">
+                        <div class="p-match-result">0</div>
+                        <div class="p-match-result">0</div>
+                      </div>
+                      <div class="p-match-result">
+                        <div class="p-match-result">0</div>
+                        <div class="p-match-result">0</div>
+                      </div>
+                      <div class="p-match-result">
+                        <div class="p-match-result">0</div>
+                        <div class="p-match-result">0</div>
+                      </div>
+                      <div class="p-match-result">
+                        <div class="p-match-result">0</div>
+                        <div class="p-match-result">0</div>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+              </ul>
+            </div>
+
+            <div class="final disabled">
+              <div class="match-info">
+                <div class="team_match not-played-l">
+                  <div class="team_info">
+                    <div class="team-logo">
+                      <img class="match-team-logo" src="assets/teams_logos/default_logo.png" />
+                    </div>
+                    <span class="team_name">TBD</span>
+                  </div>
+                  <span class="match_score">0</span>
+                </div>
+                <div class="vs_block"><div class="vs">VS</div></div>
+                <div class="team_match_right not-played-r">
+                  <div class="team_info_right">
+                    <div class="team-logo">
+                      <img class="match-team-logo" src="assets/teams_logos/default_logo.png" />
+                    </div>
+                    <span class="team_name">TBD</span>
+                  </div>
+                  <span class="match_score">0</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script>
+      new Accordion('.accordion-container');
+    </script>
+    <footer>
+      <div class="footer-left">
+        <div class="left-menu bottom">
+          <a class="menu-box" href="https://discord.gg/WqpTyMzR2M">
+            <img src="assets/discord.svg" />
+          </a>
+        </div>
+        <span class="copyright">Slow League © 2024</span>
+        <span class="copyright">All rights reserved, unauthorized copying is forbidden.</span>
+      </div>
+      <div class="footer-right">
+        <span class="copyright">Design by <a class="copyright" href="https://t.me/Nametag999">Dxnku</a></span>
+        <span class="copyright"
+          >Development by <a class="copyright clickable" href="https://t.me/skeenny">Skeenny</a></span
+        >
+      </div>
+    </footer>
+  </body>
+</html>
+<script src="playoff.js"></script>
+<script src="helper.js"></script>
